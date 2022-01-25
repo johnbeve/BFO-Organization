@@ -8,15 +8,14 @@ We would like to set up the time and meeting format soon. To help us organize th
 https://forms.gle/FrUq7wnBMrn6cZKj7 
  
 ## Co-organizers: 
-Oliver He
-Alexander Diehl
-Asiyah Yu Lin
-Sivaram Arabandi
-Bill Duncan
+- Yongqun "Oliver" He
+- Alexander Diehl
+- Asiyah Yu Lin
+- Sivaram Arabandi
+- Bill Duncan
 
 ## Previous ICBO meetings:
  2021: https://icbo2021.inf.unibz.it/
  2020: https://icbo2020.inf.unibz.it/
  2019 and others: http://icbo.buffalo.edu/
  2018：https://icbo2018.cgrb.oregonstate.edu/
-
