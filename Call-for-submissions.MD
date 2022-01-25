@@ -6,13 +6,13 @@ Call for Workshops and Papers
 Introduction ... 
 This meeting will be a hybrid meeting that includes an in-person part and a virtual part.
 
-Proposed Dates: 
+## Proposed Dates: 
 September 27-30, 2022
 Workshops and Tutorials September 27-28
 Main Conference September 29-30
 
-Venue: Ann Arbor, Michigan and Virtual
-I. Call for Workshops and Tutorials
+## Venue: Ann Arbor, Michigan and Virtual
+### I. Call for Workshops and Tutorials
 Due March 15, 2022, notification April 15, 2022.
 Workshops: Half or Full day workshops
 Specifically looking for a half-day NLP workshop
@@ -21,10 +21,10 @@ Specifically looking for a half-day SoDH workshop
 Other topics are welcome
 Tutorials: Half or Full day tutorials
 Software Demos: 15-30 minute demos, due June 15th
-II. Call for JBMS Journal Papers ICBO thematic series (due April 15th)
+### II. Call for JBMS Journal Papers ICBO thematic series (due April 15th)
 In partnership with the Journal of Biomedical Semantics, papers submitted to the ICBO thematic series at the Journal of Biomedical Semantics will be published immediately after acceptance and presented in the annual conference following acceptance. For this track, we suggest submission by the April 15th at the latest for full consideration for ICBO2022. Articles should be submitted directly to the Journal of Biomedical Semantics following the journal submission guidelines.
 Submission link:
-III. Call for ICBO conference papers and abstracts 
+### III. Call for ICBO conference papers and abstracts 
 Full length papers (mini 6 pages - max 10 pages) due May 13th , notification May 1
 Short papers up to 5 pages, due May 13th, notification May 1
 Poster Abstracts:  1 page extended abstract format, with limited references, due June 17th, notification June 1
@@ -34,7 +34,7 @@ Value of Ontology for Big Data Integration, Interoperability, and Analysis for i
 Success stories of ontologies supporting decision making systems … … 
 Other?
 
-References: 
+## References: 
 Mention “COVID-19”, electronic health records. 
 Integration of ontology with big data or databases. 
 ML, graph database, knowledge graphs. Using ontology to enhance ML using big data.
@@ -54,7 +54,7 @@ Ontologies in practice across national boundaries, e.g. medical ontologies needi
 Ontology in translation: ontologies supporting knowledge, data and applications in multiple languages
 Overcoming the practical boundaries of ontologies in integrated applications including data annotation, data integration, data science, machine learning and other artificial intelligence technologies
 
- Themes for ICBO 2019
+## Themes for ICBO 2019
 Ontological Realism & Alternative Approaches in the context of biological and biomedical data
 Genetics, Phenotypes, Disease, and Ontology across biology and medicine
 Ontology in Service of Healthcare Data Infrastructure and Analysis
