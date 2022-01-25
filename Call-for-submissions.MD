@@ -34,55 +34,21 @@ Submission link:
 
 ## ICBO-2022 theme: Lessons from Ontologies in Diverse Domains 
 
-The focuses of our 2022 conference vary with a theme of "Lessons from Ontologies in Diverse Domains". 
-These include:
-- Value of Ontology for Big Data Integration, Interoperability, and Analysis for intelligent systems
-- Success stories of ontologies supporting decision making systems - 
-- COVID-19 
-- Electronic health records. 
-- Integration of ontology with big data or databases. 
-- ML, graph database, knowledge graphs. Using ontology to enhance ML using big data.
+The focus of our 2022 conference is "Lessons from Ontologies in Diverse Domains". 
+This includes ontologies in domains such as:
+
+- Big data integration, interoperability, and analysis for intelligent systems
+- Decision support systems 
+- Machine Learning, graph database, knowledge graphs 
+- Natural Language Processing
 - Visualization
-- Industry ontologies / Digital twins (https://en.wikipedia.org/wiki/Digital_twin) https://www.imagwiki.nibib.nih.gov/content/digital-twin-overview 
-- Social determinants of health (SDOH).
-- Plant biologists (probably write to Pankaj from Oregon State University. See if there is enough going on there in pharmaceutical and agriculture. Alex will represent us to write to him.) 
+- Digital twins 
+- Genetics, phenotypes, and disease 
+- Electronic health records 
+- Social determinants of health (SDOH)
+- COVID-19 
+- Industrial applications 
+- Plant and agricultural applications    
+- Climate change
 
-## 2021 theme and text:
-- The theme for the 2021 conference is Ontologies for Global Challenges. This includes: 
-- Ontologies relating to COVID-19
-- Ontologies relating to the climate crisis and the UN’s sustainable development goals
-- Ontologies overcoming barriers between basic research and translation
-- Ontologies in support of mitigating the reproducibility crisis in scientific research
-- Ontology as a tool for open science to reduce segregation of research results and improve access to the full body of knowledge across scientific disciplines, especially as applied to urgent topics such as the climate crisis
-- Ontologies in practice across national boundaries, e.g. medical ontologies needing to serve international contexts
-- Ontology in translation: ontologies supporting knowledge, data and applications in multiple languages
-- Overcoming the practical boundaries of ontologies in integrated applications including data annotation, data integration, data science, machine learning and other artificial intelligence technologies
 
-## Themes for ICBO 2019
-- Ontological Realism & Alternative Approaches in the context of biological and biomedical data
-- Genetics, Phenotypes, Disease, and Ontology across biology and medicine
-- Ontology in Service of Healthcare Data Infrastructure and Analysis
-- Use of ontologies for data infrastructure needs, including reporting services, cohort discovery, and data warehousing
-- Using OBO ontologies in coordination with non-OBO ontologies (e.g., SNOMED)
-- Lessons from ontological analysis of large EHR systems, VA data, etc.
-- Integration of medical and non-medical data (e.g., integrating disease diagnosis with geographic information)
-- Methods to improve data translation/annotation processes, including NLP and machine learning
-= Topics of Interest = SEMANTiCS 2022 EU || Sep 12 - 15, 2022 || Vienna, Austria
-* Topics of interest include, but are not limited to:
-* Web Semantics & Linked (Open) Data
-* Enterprise Knowledge Graphs, Graph Data Management, and Deep Semantics
-* Machine Learning & Deep Learning Techniques
-* Semantic Information Management & Knowledge Integration
-* Terminology, Thesaurus & Ontology Management
-* Data Mining and Knowledge Discovery
-* IoT and Stream Processing
-* Reasoning, Rules, and Policies
-* Natural Language Processing
-* Data Quality Management and Assurance
-* Explainable Artificial Intelligence
-* Semantics in Data Science
-* Semantics in Blockchain environments
-* Trust, Data Privacy, and Security with Semantic Technologies
-* Economics of Data, Data Services, and Data Ecosystems
-
-ICBO 2022 website:
