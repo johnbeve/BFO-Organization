@@ -3,8 +3,7 @@
 Call for Workshops and Papers
 13th International Conference on Biomedical Ontology, ICBO 2022
 
-Introduction ... 
-This meeting will be a hybrid meeting that includes an in-person part and a virtual part.
+This meeting will be a hybrid meeting that includes both in-person and virtual participation. 
 
 ## Proposed Dates: 
 - September 27-30, 2022
@@ -12,24 +11,28 @@ This meeting will be a hybrid meeting that includes an in-person part and a virt
 - Main Conference September 29-30
 
 ## Venue: Ann Arbor, Michigan and Virtual
-### I. Call for Workshops and Tutorials
-Due March 15, 2022, notification April 15, 2022.
-Workshops: Half or Full day workshops
-Specifically looking for a half-day NLP workshop
-Specifically looking for a half-day machine learning workshop
-Specifically looking for a half-day SoDH workshop
-Other topics are welcome
-Tutorials: Half or Full day tutorials
-Software Demos: 15-30 minute demos, due June 15th
-### II. Call for JBMS Journal Papers ICBO thematic series (due April 15th)
+
+## Call for Workshops and Tutorials
+- Due March 15, 2022, notification April 15, 2022.
+- Workshops: Half or Full day workshops
+- Specifically looking for a half-day NLP workshop
+- Specifically looking for a half-day machine learning workshop
+- Specifically looking for a half-day SoDH workshop
+- Other topics are welcome
+- Tutorials: Half or Full day tutorials
+- Software Demos: 15-30 minute demos, due June 15th
+
+## Call for JBMS Journal Papers ICBO thematic series (due April 15th)
 In partnership with the Journal of Biomedical Semantics, papers submitted to the ICBO thematic series at the Journal of Biomedical Semantics will be published immediately after acceptance and presented in the annual conference following acceptance. For this track, we suggest submission by the April 15th at the latest for full consideration for ICBO2022. Articles should be submitted directly to the Journal of Biomedical Semantics following the journal submission guidelines.
 Submission link:
-### III. Call for ICBO conference papers and abstracts 
-Full length papers (mini 6 pages - max 10 pages) due May 13th , notification May 1
-Short papers up to 5 pages, due May 13th, notification May 1
-Poster Abstracts:  1 page extended abstract format, with limited references, due June 17th, notification June 1
-Submission link:
-IV. Themes for ICBO 2022
+
+## III. Call for ICBO conference papers and abstracts 
+- Full length papers (mini 6 pages - max 10 pages) due May 13th , notification May 1
+- Short papers up to 5 pages, due May 13th, notification May 1
+- Poster Abstracts:  1 page extended abstract format, with limited references, due June 17th, notification June 1
+- Submission link:
+
+## hemes for ICBO 2022
 Value of Ontology for Big Data Integration, Interoperability, and Analysis for intelligent systems (Note: this is what we always say. We also need to have a broad coverage.)
 Success stories of ontologies supporting decision making systems … … 
 Other?
