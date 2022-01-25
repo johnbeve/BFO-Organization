@@ -7,9 +7,9 @@ Introduction ...
 This meeting will be a hybrid meeting that includes an in-person part and a virtual part.
 
 ## Proposed Dates: 
-September 27-30, 2022
-Workshops and Tutorials September 27-28
-Main Conference September 29-30
+- September 27-30, 2022
+- Workshops and Tutorials September 27-28
+- Main Conference September 29-30
 
 ## Venue: Ann Arbor, Michigan and Virtual
 ### I. Call for Workshops and Tutorials
