@@ -44,11 +44,9 @@ This includes ontologies in domains such as:
 - Visualization
 - Digital twins 
 - Genetics, phenotypes, and disease 
-- Electronic health records 
-- Social determinants of health (SDOH)
 - COVID-19 
+- Social determinants of health (SDOH)
+- Electronic health records 
 - Industrial applications 
 - Plant and agricultural applications    
 - Climate change
-
-
