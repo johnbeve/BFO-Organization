@@ -33,6 +33,11 @@ Submission link:
 - Submission link:
 
 ## Themes for ICBO 2022
+
+### ICBO-2022 theme: Lessons from Ontologies in Diverse Domains 
+
+The focuses of our 2022 conference vary with a theme of "Lessons from Ontologies in Diverse Domains". 
+These include:
 - Value of Ontology for Big Data Integration, Interoperability, and Analysis for intelligent systems
 - Success stories of ontologies supporting decision making systems - 
 - COVID-19 
