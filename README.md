@@ -4,7 +4,15 @@ The 2022 International Conference of Biomedical Ontologies (ICBO-2022) will be h
 
 This will be a big annual meeting in the ontology community. 
 
-
+We would like to set up the time and meeting format soon. To help us organize the conference, we have generated a survey for you to fill out: 
+https://forms.gle/FrUq7wnBMrn6cZKj7 
+ 
+## Co-organizers: 
+Oliver He
+Alexander Diehl
+Asiyah Yu Lin
+Sivaram Arabandi
+Bill Duncan
 
 ## Previous ICBO meetings:
  2021: https://icbo2021.inf.unibz.it/
