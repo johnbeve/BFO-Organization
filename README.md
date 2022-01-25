@@ -18,8 +18,8 @@ https://forms.gle/FrUq7wnBMrn6cZKj7
 - March 15th: Workshop/tutorial proposals.
 - Journal submission deadline: April 15th (Friday). 
 - Conference paper submission site: EasyChair (link to be provided):
-  -- Full-paper (10 pages) and Short-paper (4-5 papers) submission deadline: May 13th (Friday).  
-  -- Poster submission: June 17th (Friday) 
+  - Full-paper (10 pages) and Short-paper (4-5 papers) submission deadline: May 13th (Friday).  
+  - Poster submission: June 17th (Friday) 
  
 ## Co-organizers: 
 - Yongqun "Oliver" He
