@@ -32,9 +32,7 @@ Submission link:
 - Poster Abstracts:  1 page extended abstract format, with limited references, due June 17th, notification June 1
 - Submission link:
 
-## Themes for ICBO 2022
-
-### ICBO-2022 theme: Lessons from Ontologies in Diverse Domains 
+## ICBO-2022 theme: Lessons from Ontologies in Diverse Domains 
 
 The focuses of our 2022 conference vary with a theme of "Lessons from Ontologies in Diverse Domains". 
 These include:
