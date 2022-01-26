@@ -18,7 +18,7 @@ This meeting will be a hybrid meeting that includes both in-person and virtual p
 - Workshops: Half or Full day workshops
   - Specifically looking for a half-day NLP workshop
   - Specifically looking for a half-day machine learning workshop
-  - Specifically looking for a half-day SoDH workshop
+  - Specifically looking for a half-day Social Determinants of Health (SDOH) workshop
   - Other topics are welcome
 - Tutorials: Half or Full day tutorials
 - Software Demos: 15-30 minute demos, due **June 15th**
