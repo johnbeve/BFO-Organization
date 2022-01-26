@@ -10,7 +10,7 @@ This meeting will be held in a hybrid format that includes both in-person and vi
 
  ## Call for Submissions: 
  
-https://github.com/ICBO-conference/icbo2022/blob/main/Call-for-submissions.MD 
+https://github.com/ICBO-conference/icbo2022/blob/main/docs/call-for-submissions.md  
 
 ## Co-organizers: 
 - Yongqun "Oliver" He
