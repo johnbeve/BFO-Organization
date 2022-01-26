@@ -15,10 +15,10 @@ This meeting will be a hybrid meeting that includes both in-person and virtual p
 ## Call for Workshops and Tutorials
 - Due **March 15**, 2022, notification **April 15**, 2022.
 - Workshops: Half or Full day workshops
-- Specifically looking for a half-day NLP workshop
-- Specifically looking for a half-day machine learning workshop
-- Specifically looking for a half-day SoDH workshop
-- Other topics are welcome
+  - Specifically looking for a half-day NLP workshop
+  - Specifically looking for a half-day machine learning workshop
+  - Specifically looking for a half-day SoDH workshop
+  - Other topics are welcome
 - Tutorials: Half or Full day tutorials
 - Software Demos: 15-30 minute demos, due **June 15th**
 
