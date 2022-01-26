@@ -27,10 +27,11 @@ In partnership with the Journal of Biomedical Semantics, papers submitted to the
 Submission link:
 
 ## Call for ICBO conference papers and abstracts 
-- Full length papers (mini 6 pages - max 10 pages) due May 13th , notification May 1
-- Short papers up to 5 pages, due May 13th, notification May 1
-- Poster Abstracts:  1 page extended abstract format, with limited references, due June 17th, notification June 1
-- Submission link:
+- JBMS Journal Papers ICBO thematic series due **April 15th**. 
+- Full length papers (mini 6 pages - max 10 pages) due **May 13th**, notification **June 1**.
+- Short papers up to 5 pages, due **May 13th**, notification **June 1**.
+- Poster Abstracts: 1 page extended abstract format, with limited references, due **June 17th**, notification **July 1**.
+- Submission link: (EasyChair to be provided later...).
 
 ## ICBO-2022 theme: Lessons from Ontologies in Diverse Domains 
 
@@ -50,3 +51,8 @@ This includes ontologies in domains such as:
 - Industrial applications 
 - Plant and agricultural applications    
 - Climate change
+
+## Contact information
+
+
+
