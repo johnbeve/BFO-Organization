@@ -13,14 +13,11 @@ This will be a big annual meeting in the ontology community.
 We would like to set up the time and meeting format soon. To help us organize the conference, we have generated a survey for you to fill out: 
 https://forms.gle/FrUq7wnBMrn6cZKj7 
  
- ## Tentative dates: 
-
-- March 15th: Workshop/tutorial proposals.
-- Journal submission deadline: April 15th (Friday). 
-- Conference paper submission site: EasyChair (link to be provided):
-  - Full-paper (10 pages) and Short-paper (4-5 papers) submission deadline: May 13th (Friday).  
-  - Poster submission: June 17th (Friday) 
+ ## Important dates: 
  
+See the [important dates](https://github.com/ICBO-conference/icbo2022/blob/main/Call-for-submissions.MD#call-for-icbo-conference-papers-and-abstracts). 
+
+
 ## Co-organizers: 
 - Yongqun "Oliver" He
 - Alexander Diehl
