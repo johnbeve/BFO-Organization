@@ -13,9 +13,9 @@ This will be a big annual meeting in the ontology community.
 We would like to set up the time and meeting format soon. To help us organize the conference, we have generated a survey for you to fill out: 
 https://forms.gle/FrUq7wnBMrn6cZKj7 
  
- ## Important dates: 
+ ## Call for Submissions: 
  
-See the [important dates](https://github.com/ICBO-conference/icbo2022/blob/main/Call-for-submissions.MD#call-for-icbo-conference-papers-and-abstracts). 
+https://github.com/ICBO-conference/icbo2022/blob/main/Call-for-submissions.MD#call-for-icbo-conference-papers-and-abstracts 
 
 
 ## Co-organizers: 
