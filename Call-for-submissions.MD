@@ -1,7 +1,8 @@
 # ICBO 2022 Call For Workshops and Papers
 
-Call for Workshops and Papers
-13th International Conference on Biomedical Ontology, ICBO 2022
+Call for Workshops and Papers: 
+
+The 13th International Conference on Biomedical Ontology, ICBO 2022
 
 This meeting will be a hybrid meeting that includes both in-person and virtual participation. 
 
