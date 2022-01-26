@@ -1,0 +1,5 @@
+site_name: "ICBO-2022: International Conference on Biomedical Ontology"
+theme:
+  name: readthedocs
+nav:
+  - Home: index.md
