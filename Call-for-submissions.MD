@@ -5,7 +5,7 @@ Call for Workshops and Papers
 
 This meeting will be a hybrid meeting that includes both in-person and virtual participation. 
 
-## Proposed Dates: 
+## Conference Dates: 
 - September 27-30, 2022
 - Workshops and Tutorials September 27-28
 - Main Conference September 29-30
