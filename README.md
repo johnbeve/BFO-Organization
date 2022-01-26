@@ -10,8 +10,7 @@ This meeting will be held in a hybrid format that includes both in-person and vi
 
  ## Call for Submissions: 
  
-https://github.com/ICBO-conference/icbo2022/blob/main/Call-for-submissions.MD#call-for-icbo-conference-papers-and-abstracts 
-
+https://github.com/ICBO-conference/icbo2022/blob/main/Call-for-submissions.MD 
 
 ## Co-organizers: 
 - Yongqun "Oliver" He
@@ -19,6 +18,11 @@ https://github.com/ICBO-conference/icbo2022/blob/main/Call-for-submissions.MD#ca
 - Asiyah Yu Lin
 - Sivaram Arabandi
 - Bill Duncan
+
+## Contact Information: 
+
+Please send your questions or comments to: 
+Oliver He: yongqunh@med.umich.edu 
 
 ## Previous ICBO meetings:
 - 2021: https://icbo2021.inf.unibz.it/
