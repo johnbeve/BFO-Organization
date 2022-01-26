@@ -44,7 +44,7 @@ This includes ontologies in domains such as:
 - Natural Language Processing
 - Visualization
 - Digital twins 
-- Genetics, phenotypes, and disease 
+- Genetics, phenotypes, and diseases 
 - COVID-19 
 - Social determinants of health (SDOH)
 - Electronic health records 
