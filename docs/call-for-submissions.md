@@ -25,7 +25,7 @@ Ann Arbor, Michigan and Virtual
 - Software Demos: 15-30 minute demos, due **June 15th**
 
 ## Call for JBMS Journal Papers ICBO thematic series 
-Submission date: **April 15th**
+Submission date: **April 15th**  
 In partnership with the Journal of Biomedical Semantics, papers submitted to the ICBO thematic series at the Journal of Biomedical Semantics will be published immediately after acceptance and presented in the annual conference following acceptance. For this track, we suggest submission by the April 15th at the latest for full consideration for ICBO2022. Articles should be submitted directly to the Journal of Biomedical Semantics following the journal submission guidelines.
 Submission link:
 
