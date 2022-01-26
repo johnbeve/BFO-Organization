@@ -54,5 +54,5 @@ This includes ontologies in domains such as:
 
 ## Contact information
 
-
+Oliver He: yongqunh@med.umich.edu 
 
