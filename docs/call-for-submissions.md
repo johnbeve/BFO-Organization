@@ -7,7 +7,7 @@ The 13th International Conference on Biomedical Ontology, ICBO 2022
 This meeting will be a hybrid meeting that includes both in-person and virtual participation. 
 
 ## Conference Dates 
-- **September 25-28, 2022** (Tuesday-Friday) 
+- **September 25-28, 2022** (Sunday-Wednesday) 
   - Workshops: September 25-26, 2022
   - Main conference: September 27-28, 2022  
 
