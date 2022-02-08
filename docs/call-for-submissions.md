@@ -1,7 +1,5 @@
 # ICBO 2022 Call For Submissions 
 
-Call for Submissions: 
-
 The 13th International Conference on Biomedical Ontology, ICBO 2022
 
 This meeting will be a hybrid meeting that includes both in-person and virtual participation. 
@@ -25,17 +23,17 @@ Ann Arbor, Michigan and Virtual
 - Software Demos: 15-30 minute demos, due **June 15th**
 - **Note:** Workshops, Tutorials, and Demos can be held in a hybrid or virtual format.  
 
-## Call for ICBO conference papers and abstracts 
-- JBMS Journal Papers ICBO thematic series due **April 15th**. 
+## Call for ICBO Conference Papers and Abstracts 
 - Full length papers (mini 6 pages - max 10 pages) due **May 13th**, notification **June 1**.
 - Short papers up to 5 pages, due **May 13th**, notification **June 1**.
 - Poster Abstracts: 1 page extended abstract format, with limited references, due **June 17th**, notification **July 1**.
 - Submission link: https://easychair.org/conferences/?conf=icbo2022
 
-## Call for JBMS Journal Papers ICBO thematic series 
+### Journal of Biomedical Semantics ICBO Thematic Series Option
 Submission date: **April 15th**  
-In partnership with the [Journal of Biomedical Semantics](https://jbiomedsem.biomedcentral.com/), papers submitted to the ICBO thematic series at the Journal of Biomedical Semantics will be published immediately after acceptance and presented in the annual conference following acceptance. For this track, we suggest submission by the April 15th at the latest for full consideration for ICBO 2022. Articles should be submitted directly to the Journal of Biomedical Semantics following the journal submission guidelines. 
-See the [guidelines](https://jbiomedsem.biomedcentral.com/submission-guidelines) for submission details. **Note**, you will need to choose the ICBO thematic series during the submission process.   
+In partnership with the [Journal of Biomedical Semantics](https://jbiomedsem.biomedcentral.com/), papers submitted to the ICBO thematic series at the Journal of Biomedical Semantics will be published immediately after acceptance and presented in the main ICBO conference following acceptance. For this track, we suggest submission by the **April 15th** at the latest for full consideration for ICBO 2022. Articles should be submitted directly to the Journal of Biomedical Semantics following the journal submission guidelines. 
+See the [guidelines](https://jbiomedsem.biomedcentral.com/submission-guidelines) for submission details.   
+**Note:** You will need to choose the ICBO thematic series during the submission process.   
 
 ## ICBO 2022 theme: Lessons from Ontologies in Diverse Domains 
 
