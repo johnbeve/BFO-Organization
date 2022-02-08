@@ -34,8 +34,8 @@ Ann Arbor, Michigan and Virtual
 
 ## Call for JBMS Journal Papers ICBO thematic series 
 Submission date: **April 15th**  
-In partnership with the Journal of Biomedical Semantics, papers submitted to the ICBO thematic series at the Journal of Biomedical Semantics will be published immediately after acceptance and presented in the annual conference following acceptance. For this track, we suggest submission by the April 15th at the latest for full consideration for ICBO 2022. Articles should be submitted directly to the Journal of Biomedical Semantics following the journal submission guidelines. 
-Submission link: https://jbiomedsem.biomedcentral.com/submission-guidelines. Note that you need to choose the ICBO thematic series during the submission process.   
+In partnership with the [Journal of Biomedical Semantics](https://jbiomedsem.biomedcentral.com/), papers submitted to the ICBO thematic series at the Journal of Biomedical Semantics will be published immediately after acceptance and presented in the annual conference following acceptance. For this track, we suggest submission by the April 15th at the latest for full consideration for ICBO 2022. Articles should be submitted directly to the Journal of Biomedical Semantics following the journal submission guidelines. 
+See the [guidelines](https://jbiomedsem.biomedcentral.com/submission-guidelines) for submission details. **Note**, you will need to choose the ICBO thematic series during the submission process.   
 
 ## ICBO 2022 theme: Lessons from Ontologies in Diverse Domains 
 
