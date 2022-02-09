@@ -35,8 +35,8 @@ In partnership with the [Journal of Biomedical Semantics](https://jbiomedsem.bio
 See the [guidelines](https://jbiomedsem.biomedcentral.com/submission-guidelines) for submission details.   
 **Note:** You will need to choose the ICBO thematic series during the submission process.   
 
-## Sumbission Format
-Workshop, abstract, and paper submissions should be formatted according to the [CEUR-Template-2col.docx template](https://docs.google.com/document/d/1zqp3oXjl5ooFw6Bb5C-cEOPXQIcolzRJ/edit?usp=sharing&ouid=106653010360062214642&rtpof=true&sd=true) (<a href="CEUR-Template-2col.docx">downlaod file</a>).  
+## Submission Format
+Workshop, abstract, and paper submissions should be formatted according to the <a href="https://docs.google.com/document/d/1zqp3oXjl5ooFw6Bb5C-cEOPXQIcolzRJ/edit?usp=sharing&ouid=106653010360062214642&rtpof=true&sd=true" target="_blank">CEUR-Template-2col.docx template</a> (<a href="CEUR-Template-2col.docx" target="_blank">downlaod file</a>).  
 Submissions to the [Journal of Biomedical Semantics](https://jbiomedsem.biomedcentral.com/) should follow their [guidelines](https://jbiomedsem.biomedcentral.com/submission-guidelines).
 
 ## ICBO 2022 theme: Lessons from Ontologies in Diverse Domains 
