@@ -1,0 +1,3 @@
+#  Michigan Week of Ontology and Semantic Web
+
+details ...

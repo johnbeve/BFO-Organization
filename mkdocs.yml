@@ -4,5 +4,6 @@ theme:
 nav:
   - Home: index.md
   - Call for Submissions: call-for-submissions.md
+  - Michigan Week of Ontology and Semantic Web: michigan-week-of-ontology-and-semantic-web.md 
   - Contact Information: contact-information.md
   - Co-organizers: co-organizers.md

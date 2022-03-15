@@ -13,7 +13,7 @@ This meeting will be a hybrid meeting that includes both in-person and virtual p
 Ann Arbor, Michigan and Virtual
 
 ## Call for Workshops and Tutorials
-- Proposals (1-2 pages) due **March 15**, 2022, notification **April 15**, 2022.
+- Proposals (1-2 pages) due **March 22**, 2022, notification **April 15**, 2022.
 - Workshops: Half or Full day workshops
   - Specifically looking for a half-day NLP workshop
   - Specifically looking for a half-day machine learning workshop
