@@ -32,8 +32,7 @@ Ann Arbor, Michigan and Virtual
 
 ### Journal of Biomedical Semantics ICBO Thematic Series Option
 Submission date: **April 15th**  
-In partnership with the [Journal of Biomedical Semantics](https://jbiomedsem.biomedcentral.com/), papers submitted to the ICBO thematic series at the Journal of Biomedical Semantics will be published immediately after acceptance and presented in the main ICBO conference following acceptance. For this track, we suggest submission by **April 15th**, at the latest, for full consideration for ICBO 2022. Articles should be submitted directly to the Journal of Biomedical Semantics following the journal [submission guidelines](https://jbiomedsem.biomedcentral.com/submission-guidelines). 
-**Note:** You will need to choose the ICBO thematic series during the submission process.   
+In partnership with the [Journal of Biomedical Semantics](https://jbiomedsem.biomedcentral.com/), papers submitted to the ICBO thematic series at the Journal of Biomedical Semantics will be published immediately after acceptance and presented in the main ICBO conference following acceptance. For this track, we suggest submission by **April 15th**, at the latest, for full consideration for ICBO 2022. Articles should be submitted directly to the Journal of Biomedical. See the [Journal of Biomedical Semantics ICBO Thematic Series](submit-jbms-icbo.md) page for submission details.
 
 ## Submission Format
 Workshop, abstract, and paper submissions should be formatted according to the <a href="https://docs.google.com/document/d/1zqp3oXjl5ooFw6Bb5C-cEOPXQIcolzRJ/edit?usp=sharing&ouid=106653010360062214642&rtpof=true&sd=true" target="_blank">CEUR-Template-2col.docx template</a> (<a href="https://github.com/ICBO-conference/icbo2022/raw/main/docs/CEUR-Template-2col.docx" target="_blank">download file</a>).  
