@@ -4,3 +4,4 @@
 - Asiyah Yu Lin, National Institutes of Health
 - Sivaram Arabandi, Ontopro
 - William Duncan, University of Florida
+- Hande Küçük McGinty, Ohio University
