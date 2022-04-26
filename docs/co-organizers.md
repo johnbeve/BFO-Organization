@@ -1,4 +1,4 @@
-# Co-organizers: 
+# Co-chairs: 
 - Yongqun "Oliver" He, University of Michigan Medical School
 - Alexander Diehl, University at Buffalo
 - Asiyah Yu Lin, National Institutes of Health
