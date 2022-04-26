@@ -14,7 +14,6 @@ CELLS 2022 will take place as a half-day virtual workshop and will be free for a
 
 Please visit the CELLS [website](https://sites.google.com/view/cells-2022-workshop/home) for submission details.
 
-
 ## FAIR ontology harmonization and TRUST data interoperability
 *Organizers*: Yu Lin and Gary Berg-Cross
 
