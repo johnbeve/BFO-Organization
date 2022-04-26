@@ -14,8 +14,10 @@ The Ontology of Medically Related Social Entities (OMRSE) is being developed to 
 
 We propose holding the 6th International Cells in Experimental Life Science Workshop, CELLS 2022, in association with ICBO 2022 as a half-day workshop. This workshop will build upon the past success of the CELLS workshop series and provide a valuable forum for discussion of recent advances in representing data from single cell RNA sequencing and related technologies using ontologies such as the Cell Ontology.
 
-https://sites.google.com/view/cells-2022-workshop/home
 The 6th International Cells in Experimental Life Science Workshop, CELLS 2022, will provide a venue for discussions of the application of biomedical ontologies to represent and analyze in vivo and in vitro cell- and cell line-related knowledge and data, including single cell RNA sequencing data and stem cell technologies. The workshop will also cover the extension of CL for ontological representation of cell types based on new methodologies and experiments. In addition it will cover real-world use cases which may require other ontological adaptations beyond CL and CLO.
+
+Please visit the CELLS [website](
+https://sites.google.com/view/cells-2022-workshop/home) for submission instructions.
 
 
 
