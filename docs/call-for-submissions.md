@@ -25,8 +25,8 @@ Ann Arbor, Michigan and Virtual
 - **Note:** Workshops, Tutorials, and Demos can be held in a hybrid or virtual format.  
 
 ## Call for ICBO Conference Papers and Abstracts 
-- Full length papers (6-10 pages) due **May 13th**, notification **June 1**.
-- Short papers up to 5 pages, due **May 13th**, notification **June 1**.
+- Full length papers (6-10 pages) due **May 30th**, notification **June 21**.
+- Short papers up to 5 pages, due **May 30th**, notification **June 21**.
 - Poster Abstracts: 1 page extended abstract format, with limited references, due **June 17th**, notification **July 1**.
 - Submission link: [https://easychair.org/conferences/?conf=icbo2022](https://easychair.org/conferences/?conf=icbo2022)
 
