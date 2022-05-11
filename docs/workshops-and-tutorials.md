@@ -28,10 +28,12 @@ They may specify necessary conditions which allow checking whether an instance o
 
 We propose a workshop on ontology tools and workflows at ICBO 2022, that will complement the software demonstration track by providing a forum for ontology tool developers and maintainers to discuss their software, workflows, and future directions.
 
-## 11th Vaccine and Drug Ontology Studies (VDOS) 2022
+## 11th Vaccine and Drug Ontology Studies (VDOS-2022)
 *Organizers*: Junguk Hur, Cui Tao and Yongqun He
+*Contact*: Cui Tao, cui.tao@uth.tmc.edu
+*Website*: [https://sites.google.com/view/vdosworkshop/vdos-2022](https://sites.google.com/view/vdosworkshop/vdos-2022)
 
-We are proposing to have the Vaccine and Drug Ontology Studies (VDOS) workshop during the 13th International Conference on Biomedical Ontology (ICBO 2022). This will be our 11th workshop to be held with ICBO.
+ Drugs and vaccines have contributed to dramatic improvements in public health worldwide. Over the last decade, there have been efforts in the biomedical ontology community that represents various areas associated with drugs including vaccines that extend existing health and clinical terminology systems (e.g., SNOMED, RxNorm, NDF-RT, and MedDRA), vernacular medical terminologies, and their applications to research and clinical data. This workshop will provide a platform for discussing innovative solutions as well as the challenges in the development and application of biomedical ontologies to representing and analyzing drugs and vaccines, their administration, immune responses induced, adverse events, and similar topics. The workshop will cover two main areas: (i) ontology representation of drugs and vaccines, and (ii) applications of the ontologies in real-world situations – administration, adverse events, etc. Examples of biomedical subject matter in the scope of this workshop: drug components (e.g., drug active ingredients, vaccine antigens, and adjuvants), administration details (e.g., dosage, administration route, and frequency), gene immune responses and pathways, drug-drug or drug-food interactions, and adverse events. Both research and clinical subjects will be covered. We will also focus on computational methods used to study these, for example, literature mining of vaccine/drug-gene interaction networks, meta-analysis of host immune responses, and time event analysis of the pharmacological effects. This workshop is expected to support a deeper understanding of vaccine and drug mechanisms and effects using ontologies. More specific topics will be selected based on attendees’ submissions and interests.
 
 ## OBO Tutorial: Using and Reusing Ontologies
 *Organizers*: James A. Overton, Rebecca Jackson, Chris Mungall, Nicole Vasilevsky, Nicolas Matentzoglu and Randi Vita
