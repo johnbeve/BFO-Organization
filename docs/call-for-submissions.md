@@ -13,7 +13,7 @@ This meeting will be a hybrid meeting that includes both in-person and virtual p
 Ann Arbor, Michigan and Virtual
 
 ## Call for Workshops and Tutorials
-- Proposals (1-2 pages) due **March 22**, 2022, notification **April 15**, 2022.
+- Proposals (1-2 pages) due **March 22**, 2022, notification **April 15**, 2022.  
 - Workshops: Half or Full day workshops
   - Specifically looking for a half-day NLP workshop
   - Specifically looking for a half-day machine learning workshop
@@ -31,8 +31,8 @@ Ann Arbor, Michigan and Virtual
 - Submission link: [https://easychair.org/conferences/?conf=icbo2022](https://easychair.org/conferences/?conf=icbo2022)
 
 ### Journal of Biomedical Semantics ICBO Thematic Series Option
-Submission date: **May 1st**  
-In partnership with the [Journal of Biomedical Semantics](https://jbiomedsem.biomedcentral.com/), papers submitted to the ICBO thematic series at the Journal of Biomedical Semantics will be published immediately after acceptance and presented in the main ICBO conference following acceptance. For this track, we suggest submission by **May 1st**, at the latest, for full consideration for ICBO 2022. Articles should be submitted directly to the Journal of Biomedical. See the [Journal of Biomedical Semantics ICBO Thematic Series](submit-jbms-icbo.md) page for submission details.
+Submission date: **May 13st**  
+In partnership with the [Journal of Biomedical Semantics](https://jbiomedsem.biomedcentral.com/), papers submitted to the ICBO thematic series at the Journal of Biomedical Semantics will be published immediately after acceptance and presented in the main ICBO conference following acceptance. For this track, we suggest submission by **May 13st**, at the latest, for full consideration for ICBO 2022. Articles should be submitted directly to the Journal of Biomedical. See the [Journal of Biomedical Semantics ICBO Thematic Series](submit-jbms-icbo.md) page for submission details.
 
 ## Submission Format
 Workshop, abstract, and paper submissions should be formatted according to the <a href="https://docs.google.com/document/d/1zqp3oXjl5ooFw6Bb5C-cEOPXQIcolzRJ/edit?usp=sharing&ouid=106653010360062214642&rtpof=true&sd=true" target="_blank">CEUR-Template-2col.docx template</a> (<a href="https://github.com/ICBO-conference/icbo2022/raw/main/docs/CEUR-Template-2col.docx" target="_blank">download file</a>).  
