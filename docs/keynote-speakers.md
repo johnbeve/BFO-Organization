@@ -1,0 +1,10 @@
+# Keynote Speakers
+
+
+## Chris Stoeckert
+
+Chris Stoeckert, Ph.D., is a Research Professor of Genetics and faculty in the Institute of Biomedical Informatics at the University of Pennsylvania. Although originally a biophysicist and then a molecular and cell biologist, he has spent most of his career working on databases supporting the mining of complex datasets. These have included databases on gene expression, orthologous proteins, pancreatic development, Alzheimer’s Disease genomics, and multiple resources for the NIAID VEuPath Bioinformatic Research Center supporting research on eukaryotic pathogens and vectors including the associated ClinEpiDB and MicrobiomeDB. The database work led to involvement in the development of data standards such as MIAME (Minimal Information About a Microarray Experiment), MAGE-TAB format standard for reporting microarray experiments, and the development of biomedical ontologies such as the MGED Ontology. He is a founder and developer of the Ontology for Biomedical Investigations (OBI), has led the development of the Ontology for Biobanking (OBIB), and serves on the OBO Foundry Operations Committee. He is faculty director of the TURBO (Transforming & Unifying Research with Biomedical Ontologies) project at Penn aimed at semantic harmonization and integration of clinical data.
+
+## Susan Gregurick
+
+Susan Gregurick, Ph.D., is the Associate Director for Data Science and Director of the Office of Data Science Strategy (ODSS) at the National Institutes of Health (NIH) in 2019. Under Dr. Gregurick’s leadership, the ODSS leads the implementation of the NIH Strategic Plan for Data Science through scientific, technical, and operational collaboration with the institutes, centers, and offices that comprise NIH. Dr. Gregurick received the 2020 Leadership in Biological Sciences Award from the Washington Academy of Sciences for her work in this role. She was instrumental in the creation of the ODSS in 2018 and served as a senior advisor to the office until being named to her current position.
