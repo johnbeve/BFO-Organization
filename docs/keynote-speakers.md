@@ -7,3 +7,7 @@
 ## Susan Gregurick
 
 <img src='images/susan-gregurick.jpeg' height='100' align='left' /> Susan Gregurick, Ph.D., is the Associate Director for Data Science and Director of the Office of Data Science Strategy (ODSS) at the National Institutes of Health (NIH) in 2019. Under Dr. Gregurick’s leadership, the ODSS leads the implementation of the NIH Strategic Plan for Data Science through scientific, technical, and operational collaboration with the institutes, centers, and offices that comprise NIH. Dr. Gregurick received the 2020 Leadership in Biological Sciences Award from the Washington Academy of Sciences for her work in this role. She was instrumental in the creation of the ODSS in 2018 and served as a senior advisor to the office until being named to her current position.
+
+Dr. Gregurick was previously the Division Director for Biophysics, Biomedical Technology, and Computational Biosciences at the National Institute of General Medical Sciences. Prior to joining the NIH in 2013, Dr. Gregurick was a program director in the Office of Biological and Environmental Research at the Department of Energy.
+
+Before beginning a career of government service, Dr. Gregurick was a professor of computational chemistry at the University of Maryland, Baltimore County. Her research interests included dynamics of large biological macromolecules, and her areas of expertise are computational biology, high performance computing, neutron scattering and bioinformatics
