@@ -12,5 +12,5 @@ The 2022 International Conference of Biomedical Ontologies (ICBO 2022) will be h
 This meeting will be held in a hybrid format that includes both in-person and virtual participation and is part of the [Michigan Week of Ontology and Semantic Web](michigan-week-of-ontology-and-semantic-web.md).
 
 ## [Keynote Speakers](keynote-speakers.md)
-- [Chris Stoecket](https://www.med.upenn.edu/apps/faculty/index.php/p6403) (University of Pennsylvania)
+- [Chris Stoeckert](https://www.med.upenn.edu/apps/faculty/index.php/p6403) (University of Pennsylvania)
 - [Susan Gregurick](https://datascience.nih.gov/director%E2%80%99s-corner) (National Institutes of Health)
