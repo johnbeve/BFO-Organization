@@ -16,7 +16,7 @@
 | Pierre Grenon             | National Center for Ontological Research                                    |
 | Emma Griffiths            | Simon Fraser University                                                     |
 | Oliver He                 | University of Michigan                                                      |
-| Karl Helmer               | 0                                                                           |
+| Karl Helmer               |                                                                            |
 | William Hogan             | University of Florida                                                       |
 | Charles Hoyt              | Harvard Medical School                                                      |
 | Junguk Hur                | University of North Dakota                                                  |
