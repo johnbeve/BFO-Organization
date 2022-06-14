@@ -26,3 +26,11 @@ For General Attendees:
 - $350 for Early bird 
 - $450 for regular fee
 
+The registration fee covers:
+
+- Breakfast on September 26-28 
+- Coffee and refreshments every day (i.e., September 25-28 )
+- Lunch every day
+- One group dinner (TBD) 
+
+
