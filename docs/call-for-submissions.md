@@ -10,7 +10,7 @@ This meeting will be a hybrid meeting that includes both in-person and virtual p
   - Main conference: September 27-28, 2022  
 
 ## Venue
-Ann Arbor, Michigan and Virtual
+[Michigan League](https://uunions.umich.edu/league/), University of Michigan, Ann Arbor, Michigan and Virtual
 
 ## Call for Workshops and Tutorials
 - Proposals (1-2 pages) due **March 22**, 2022, notification **April 15**, 2022.  
