@@ -5,7 +5,7 @@
 The 2022 International Conference of Biomedical Ontologies (ICBO 2022) will be held in 2022 at the [Michigan League](https://uunions.umich.edu/league/), [University of Michigan](https://umich.edu/), Ann Arbor, MI, USA. 
 
 [Michigan League](https://uunions.umich.edu/league/) Address: 
-911 North University Ann Arbor, MI 48109. 
+911 North University, Ann Arbor, MI 48109. 
 
 ## Conference Dates
 - **September 25-28, 2022** (Sunday-Wednesday)
