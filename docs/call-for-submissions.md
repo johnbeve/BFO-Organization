@@ -27,7 +27,7 @@ This meeting will be a hybrid meeting that includes both in-person and virtual p
 ## Call for ICBO Conference Papers and Abstracts 
 - Full length papers (6-10 pages) due **May 30th**, notification **June 28**.
 - Short papers up to 5 pages, due **May 30th**, notification **June 28**.
-- Poster Abstracts: 1 page extended abstract format, with limited references, due **June 17th**, notification **July 1**.
+- Poster Abstracts: 1 page extended abstract format, with limited references, due **July 1**, notification **July 15**.
 - Submission link: [https://easychair.org/conferences/?conf=icbo2022](https://easychair.org/conferences/?conf=icbo2022)
 
 ### Journal of Biomedical Semantics ICBO Thematic Series Option
