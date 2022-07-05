@@ -18,7 +18,7 @@ Please visit the CELLS [website](https://sites.google.com/view/cells-2022-worksh
 ## FAIR ontology harmonization and TRUST data interoperability (FOHTI)
 *Organizers*: Asiyah Yu Lin and Gary Berg-Cross<br>
 *Contact*: asiyah.lin@nih.gov;gbergcross@gmail.com<br>
-*Submission*: https://easychair.org/my/conference?conf=fohti2022
+*Submission*: [https://easychair.org/my/conference?conf=fohti2022](https://easychair.org/my/conference?conf=fohti2022)
 
 Although ontologies are often developed and used for specific needs within an organization, there is always common knowledge in a specific domain and at a high level, such as space and time, across many domains. To avoid each organization spending time and resources to model and represent that common knowledge, it is desirable to develop some consensus on a range of semantic resources. Many types of these semantic resources exist along a semantic ladder/ spectrum such as structured vocabularies but also the high levels of domain ontologies to support a wide range of use cases. All involve termed concepts whose definitions vary significantly in precision, scope, form & the communities involved in agreement on the meaning. Ontologies are special resources because they emphasize formal term definitions that specify the intended meaning of a term by clarifying and disambiguating natural definitions with necessary and sufficient logical property conditions such as sub-class & part of relations. 
 
