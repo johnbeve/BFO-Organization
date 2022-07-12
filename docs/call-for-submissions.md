@@ -27,11 +27,11 @@ This meeting will be a hybrid meeting that includes both in-person and virtual p
 ## Call for ICBO Conference Papers and Abstracts 
 - Full length papers (6-10 pages) due **May 30th**, notification **June 28**.
 - Short papers up to 5 pages, due **May 30th**, notification **June 28**.
-- Poster Abstracts: 1 page extended abstract format, with limited references, due **July 1**, notification **July 15**.
+- Poster Abstracts: 1 page extended abstract format, with limited references, due **August 25**, rolling notification starting **July 15**.
 - Submission link: [https://easychair.org/conferences/?conf=icbo2022](https://easychair.org/conferences/?conf=icbo2022)
 
 ### Journal of Biomedical Semantics ICBO Thematic Series Option
-Submission date: **May 13st**  
+Submission date: **May 13**  
 In partnership with the [Journal of Biomedical Semantics](https://jbiomedsem.biomedcentral.com/), papers submitted to the ICBO thematic series at the Journal of Biomedical Semantics will be published immediately after acceptance and presented in the main ICBO conference following acceptance. For this track, we suggest submission by **May 13st**, at the latest, for full consideration for ICBO 2022. Articles should be submitted directly to the Journal of Biomedical. See the [Journal of Biomedical Semantics ICBO Thematic Series](submit-jbms-icbo.md) page for submission details.
 
 ## Submission Format
