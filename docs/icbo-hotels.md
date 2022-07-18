@@ -1,6 +1,8 @@
 # ICBO 2022 Hotel Options
-**Note:** Due to a football game at Ann Arbor on September 24, it is likely hard to book a hotel room on
-September 24 in downtown Ann Arbor.
+**Note:** Due to a football game at Ann Arbor on September 24, it may be difficult to book a hotel room on
+September 24 in downtown Ann Arbor.  
+
+We have put together a Google Doc with informaton about [ICBO 2022 hotel options](https://docs.google.com/document/d/1_set_ag3YpJvE7QBmcvEUX41IYTY-R7p/edit). We update the document as often as possible. Below is list of hotels in the area.
 
 **Hotel name:** INN at the Michigan League  
 Phone: +1 734-764-3177   
