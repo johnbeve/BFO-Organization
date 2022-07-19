@@ -33,7 +33,8 @@ The registration fee covers:
 - Lunch every day
 - One group dinner (TBD) 
 
-## Virtual Attendance
+## Virtual Attendance (free)
+Virtual attendance is free.
 
 If you plan to attend virtually, you are required to fill out this [registration form](https://docs.google.com/forms/d/1ca255se55ZNkq-zqiFj3Ecd0fmIt1RFfJ3drayW5xto/viewform?edit_requested=true) in order to receive the meeting's Zoom link.
 
