@@ -12,7 +12,7 @@ Once you are at this page, you will need to follow these steps:
  
 If for some reason you log in and back out and are asked for a "code" to find the conference again, it is ICBO2022. This should not happen, but if it does, that code will get them back to their registration. 
 
-## Registration fee information:
+## Registration fee information
 
 **_Note_: Early bird end time: August 31, 2022.**
 
