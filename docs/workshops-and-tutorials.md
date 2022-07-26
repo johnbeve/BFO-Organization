@@ -75,7 +75,7 @@ Survey several pre-built ways of authoring models.
 Learn about DataHarmonizer; a standardized spreadsheet editor and validator that can be used to curate data conforming to a custom LinkML model. 
 
 ## First Workshop on the Role of Ontologies in Biomedical AI (ROBI)
-*Organizers*: Robert Hoehndorf   
+*Organizer*: Robert Hoehndorf   
 *Contact*: Robert Hoehndorf, robert.hoehndorf@kaust.edu.sa   
 *Website*: [https://bio-ontology-research-group.github.io/icbo-2022-ml-workshop/](https://bio-ontology-research-group.github.io/icbo-2022-ml-workshop/)   
 
