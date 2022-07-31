@@ -75,9 +75,9 @@ Survey several pre-built ways of authoring models.
 Learn about DataHarmonizer; a standardized spreadsheet editor and validator that can be used to curate data conforming to a custom LinkML model. 
 
 ## First Workshop on the Role of Ontologies in Biomedical AI (ROBI)
-*Organizers*: Robert Hoehndorf, George Gkoutos and Paul Schofield   
+*Organizers*: Robert Hoehndorf and George Gkoutos    
 *Contact*: Robert Hoehndorf, robert.hoehndorf@kaust.edu.sa   
 *Website*: [https://bio-ontology-research-group.github.io/icbo-2022-ml-workshop/](https://bio-ontology-research-group.github.io/icbo-2022-ml-workshop/)   
 
-Ontologies and Linked Data resources are pervasive throughout the life sciences wher hundreds of ontologies are used in almost every major biological database for the formal characterization of data and the integration of knowledge. Methods that allow incorporating the knowledge in ontologies in biomedical data analysis and particular machine learning are only now being developed. The aim of the workshop is to explore the interface between domain knowledge in biomedical ontologies and machine learning from the perspective of ontologies, their structure, and underlying conceptualization. We will discuss how ontologies can contribute to build more comprehensive AI models that utilize domain knowledge, provide explanations understandable to domain experts, and identify consistency with scientific knowledge.
+Ontologies and Linked Data resources are pervasive throughout the life sciences where hundreds of ontologies are used in almost every major biological database for the formal characterization of data and the integration of knowledge. Methods that allow incorporating the knowledge in ontologies in biomedical data analysis and particular machine learning are only now being developed. The aim of the workshop is to explore the interface between domain knowledge in biomedical ontologies and machine learning from the perspective of ontologies, their structure, and underlying conceptualization. We will discuss how ontologies can contribute to build more comprehensive AI models that utilize domain knowledge, provide explanations understandable to domain experts, and identify consistency with scientific knowledge.
 
