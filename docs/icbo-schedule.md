@@ -1,5 +1,5 @@
-**ICBO 2022 Scheduling (tentative)** ([pdf](ICBO-2022-Scheduling.pdf), [Google sheet](https://docs.google.com/spreadsheets/d/1Pl8ny5ro19-9FsiAc2R2pBLvWg-zGAE8/edit?usp=sharing&ouid=106653010360062214642&rtpof=true&sd=true))   
-8am - 8pm 
+# ICBO 2022 Scheduling (tentative)   
+8am - 8pm ([pdf](ICBO-2022-Scheduling.pdf), [Google sheet](https://docs.google.com/spreadsheets/d/1Pl8ny5ro19-9FsiAc2R2pBLvWg-zGAE8/edit?usp=sharing&ouid=106653010360062214642&rtpof=true&sd=true)) 
 |       | 9/25/22                   | 9/26/22                                                     | 9/27/22                    | 9/28/22               |
 |-------|---------------------------|-------------------------------------------------------------|----------------------------|-----------------------|
 |       | Sunday                    | Monday                                                      | Tuesday                    | Wednesday             |
