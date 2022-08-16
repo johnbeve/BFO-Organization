@@ -1,33 +1,37 @@
 # ICBO 2022 Scheduling  
-8am - 8pm ([pdf](ICBO-2022-Scheduling.pdf), [Google sheet](
-https://drive.google.com/file/d/1uHGgbySAtrodvw67rJR-M_uohw5dFeJI/view?usp=sharing))   
+## Shedule Overview ([pdf](ICBO-2022-Scheduling.pdf))  
 ![icbo-schedule](icbo-schedule.png)
 
 
-## Schedule details
+## Schedule Details
+
+**Sunday, September 25, 2022 (breakfast on your own)**   
 ```
-Sunday, September 25, 2022
-(breakfast on your own)
 Morning
 Parallel Sessions
 9:00 am – 12:30 pm FOODON Hackathon Morning Session
 9:00 am – 12:30 pm LinkML Workshop/Tutorial
 10:15 – 10:30 am Coffee Break
-12:30 – 1:30 pm Lunch at Michigan League
+12:30 – 1:30 pm Lunch at Michigan League  
+
 Afternoon
 Parallel Sessions
 1:30 – 5:00 pm FOODON Hackathon Afternoon Session
 1:30 – 5:00 pm First Workshop on the Role of Ontologies in Biomedical AI (ROBI)
 3:00 – 3:15 pm Coffee Break
-5:00 – 7:00 pm Campus Tour of University of Michigan
-Monday, September 26, 2022
+5:00 – 7:00 pm Campus Tour of University of Michigan   
+```
+
+**Monday, September 26, 2022**
+```
 Morning
 8:00 – 9:00 am Breakfast at Michigan League
 Parallel Sessions
 9:00 am – 12:30 pm OBO Tutorial: Using and Reusing Ontologies
 9:00 am – 12:30 pm FAIR Ontology Harmonization and TRUST Data Interoperability (FOHTI)
 10:15 – 10:30 am Coffee Break
-12:30 – 1:30 pm Lunch at Michigan League
+12:30 – 1:30 pm Lunch at Michigan League  
+
 Afternoon
 Parallel Sessions
 1:30 – 5:00 pm Workshop on Ontology Tools and Workflows
@@ -38,8 +42,10 @@ Parallel Sessions
 6:30 – 7:30 pm Keynote Talk presented by Chris Stoeckert
 (Note that the 6th International Cells in Experimental Life Science Workshop, CELLS 2022, will be held
 virtually on September 21, 2022. See website for details)
+```
 
-Tuesday, September 27, 2022
+**Tuesday, September 27, 2022**
+```
 Morning Session
 8:00 – 9:00 am Breakfast at Michigan League
 9:00 – 9:15 am Welcome/Introduction
@@ -64,7 +70,9 @@ Framework for Aging” Fumiaki Toyoshima (25 minutes)
 12:10 – 12:30 pm “Ontology representation for Cholangiocarcinoma”
 
 Anuwat Pengput (20 minutes)
-12:30 – 1:30 pm Lunch at Michigan League
+
+12:30 – 1:30 pm Lunch at Michigan League   
+
 Afternoon Session
 1:30 – 1:50 pm “The Gaps in the Terminological Representation of the ACORN Social
 Determinants of Health Survey” Melissa Resnick (20 minutes)
@@ -82,8 +90,10 @@ To be determined
 4:15 – 4:45 pm Flash talks for posters/software demos (2 minutes each)
 4:45 – 6:30 pm Poster Session
 6:30 – 9:00 pm Dinner at Lake
+```
 
-Wednesday, September 28, 2022
+**Wednesday, September 28, 2022**
+```
 Morning Session
 8:00 – 9:00 am Breakfast at Michigan League
 9:00 – 9:15 am BFO/ISO Celebration
@@ -106,7 +116,8 @@ delivery, and interpreted information” Zach Landis-Lewis (25 minutes)
 
 health science data harmonization” Anna Maria Masci (20 minutes)
 
-12:30 – 1:30 pm Lunch at Michigan League
+12:30 – 1:30 pm Lunch at Michigan League   
+
 Afternoon Session
 1:30 – 2:00 pm JBMS Journal Track Talk 3 (30 minutes)
 2:00 – 2:20 pm “OMOP-2-OPMI: Ontologization of OMOP CDM using OPMI to support clinical
