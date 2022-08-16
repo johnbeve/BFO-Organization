@@ -157,7 +157,7 @@ Determinants of Health.
 Matthew Diller (20 minutes)
 ```
 2:40 – 2:50 pm Coffee Break
-```
+```txt
 2:50 – 4:50 pm OBO Foundry Town Hall (Governance and Operations Committees)
 
 4:50 – 5:00 pm Closing Remarks
