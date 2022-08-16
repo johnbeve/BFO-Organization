@@ -25,11 +25,11 @@ Parallel Sessions
 
 ### Monday, September 26, 2022
 #### Morning
-```
+```txt
 8:00 – 9:00 am Breakfast at Michigan League  
 ```
 Parallel Sessions
-```
+```txt
 9:00 am – 12:30 pm OBO Tutorial: Using and Reusing Ontologies
 9:00 am – 12:30 pm FAIR Ontology Harmonization and TRUST Data Interoperability (FOHTI)
 10:15 – 10:30 am Coffee Break
@@ -37,7 +37,7 @@ Parallel Sessions
 ```
 #### Afternoon
 Parallel Sessions
-```
+```txt
 1:30 – 5:00 pm Workshop on Ontology Tools and Workflows
 1:30 – 5:00 pm Financial and Legal Dimensions of Healthcare
 1:30 – 5:00 pm 11th Vaccine and Drug Ontology Studies (VDOS-2022)
@@ -49,7 +49,7 @@ Parallel Sessions
 
 ### Tuesday, September 27, 2022
 #### Morning Session
-```
+```txt
 8:00 – 9:00 am Breakfast at Michigan League
 ```
 ```txt
@@ -60,7 +60,7 @@ Parallel Sessions
 9:45 – 10:15 am JBMS Journal Track Talk 2 (30 minutes)
 ```
 10:15 – 10:30 am Coffee Break
-```
+```txt
 10:30 – 10:55 am  
 Exploring the Ontology of Pandemic
 C. Maria Keet (25 minutes)
@@ -85,7 +85,7 @@ Anuwat Pengput (20 minutes)
 
 
 #### Afternoon Session
-```
+```txt
 1:30 – 1:50 pm “The Gaps in the Terminological Representation of the ACORN Social
 Determinants of Health Survey” Melissa Resnick (20 minutes)
 1:50 – 2:10 pm “Using Ontologies to Enhance Data on Intimate Partner Violence”
@@ -97,30 +97,29 @@ François Goyer (20 minutes)
 2:30 – 3:00 pm "Perspectives on machine learning"
 Jobst Landgrebe, and Barry Smith (30 minute talk) 
 ```
-
 3:00 – 3:15 pm Coffee Break
-```
+```txt
 3:15 – 4:00 pm Invited Talk: Robert Hoerndorf (45 minutes)
 4:00 – 4:15 pm Sponsored talk (15 minutes)
 4:15 – 4:45 pm Flash talks for posters/software demos (2 minutes each)
 4:45 – 6:30 pm Poster Session
 ```
-```
+```txt
 6:30 – 9:00 pm Dinner at Lake
 ```
 
 ### Wednesday, September 28, 2022
 #### Morning Session
-```
+```txt
 8:00 – 9:00 am Breakfast at Michigan League
 ```
-```
+```txt
 9:00 – 9:15 am BFO/ISO Celebration
 
 9:15 – 10:15 am Keynote Talk presented by Susan Gregurick
 ```
 10:15 – 10:30 am Coffee Break
-```
+```txt
 10:30 – 10:55 am 
 Ubergraph: integrating OBO ontologies into a unified semantic graph
 James Balhoff (25 minutes)
@@ -145,7 +144,7 @@ Anna Maria Masci (20 minutes)
 
 
 #### Afternoon Session
-```
+```txt
 1:30 – 2:00 pm JBMS Journal Track Talk 3 (30 minutes)
 
 2:00 – 2:20 pm 
