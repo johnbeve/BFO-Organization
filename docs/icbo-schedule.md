@@ -94,9 +94,10 @@ S. Clint Dowland (20 minutes)
 2:10 – 2:30 pm “An ontology for healthcare systems”
 François Goyer (20 minutes)
 
-2:30 – 3:00 pm 30 minute talk
-To be determined
+2:30 – 3:00 pm "Perspectives on machine learning"
+Jobst Landgrebe, and Barry Smith (30 minute talk) 
 ```
+
 3:00 – 3:15 pm Coffee Break
 ```
 3:15 – 4:00 pm Invited Talk: Robert Hoerndorf (45 minutes)
