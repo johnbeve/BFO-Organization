@@ -8,7 +8,7 @@
 ### Sunday, September 25, 2022 (breakfast on your own)  
 #### Morning   
 Parallel Sessions 
-```
+```txt
 9:00 am – 12:30 pm FOODON Hackathon Morning Session
 9:00 am – 12:30 pm LinkML Workshop/Tutorial
 10:15 – 10:30 am Coffee Break
@@ -16,7 +16,7 @@ Parallel Sessions
 ```
 #### Afternoon
 Parallel Sessions
-```   
+```txt
 1:30 – 5:00 pm FOODON Hackathon Afternoon Session
 1:30 – 5:00 pm First Workshop on the Role of Ontologies in Biomedical AI (ROBI)
 3:00 – 3:15 pm Coffee Break
@@ -44,7 +44,9 @@ Parallel Sessions
 3:00 – 3:15 pm Coffee Break
 5:00 – 6:30 pm Welcome Reception at Michigan League
 6:30 – 7:30 pm Keynote Talk presented by Chris Stoeckert  
-(Note that the 6th International Cells in Experimental Life Science Workshop, CELLS 2022, will be held virtually on September 21, 2022. See website for details)
+
+Note: The 6th International Cells in Experimental Life Science Workshop, CELLS 2022, 
+will be held virtually on September 21, 2022. See website for details.
 ```
 
 ### Tuesday, September 27, 2022
@@ -86,16 +88,21 @@ Anuwat Pengput (20 minutes)
 
 #### Afternoon Session
 ```txt
-1:30 – 1:50 pm “The Gaps in the Terminological Representation of the ACORN Social
-Determinants of Health Survey” Melissa Resnick (20 minutes)
-1:50 – 2:10 pm “Using Ontologies to Enhance Data on Intimate Partner Violence”
+1:30 – 1:50 pm 
+The Gaps in the Terminological Representation of the ACORN Social Determinants of Health Survey
+Melissa Resnick (20 minutes)
 
+1:50 – 2:10 pm 
+Using Ontologies to Enhance Data on Intimate Partner Violence
 S. Clint Dowland (20 minutes)
-2:10 – 2:30 pm “An ontology for healthcare systems”
+
+2:10 – 2:30 pm 
+An ontology for healthcare systems
 François Goyer (20 minutes)
 
-2:30 – 3:00 pm "Perspectives on machine learning"
-Jobst Landgrebe, and Barry Smith (30 minute talk) 
+2:30 – 3:00 pm 
+Perspectives on machine learning
+Jobst Landgrebe, and Barry Smith (30 minutes) 
 ```
 3:00 – 3:15 pm Coffee Break
 ```txt
