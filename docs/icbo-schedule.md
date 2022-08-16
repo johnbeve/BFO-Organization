@@ -1,5 +1,5 @@
 # ICBO 2022 Scheduling  
-## Shedule Overview ([pdf](ICBO-2022-Scheduling.pdf))  
+## Schedule Overview ([pdf](ICBO-2022-Scheduling.pdf))  
 ![icbo-schedule](icbo-schedule.png)
 
 
@@ -52,7 +52,7 @@ Parallel Sessions
 ```
 8:00 – 9:00 am Breakfast at Michigan League
 ```
-```
+```txt
 9:00 – 9:15 am Welcome/Introduction
 
 9:15 – 9:45 am JBMS Journal Track Talk 1 (30 minutes)
