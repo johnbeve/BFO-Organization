@@ -54,4 +54,4 @@ Address: 3535 Green Court, Ann Arbor, Michigan 48105 USA
 Website: [https://www.marriott.com/en-us/hotels/arbrn-residence-inn-ann-arbor-north](https://www.marriott.com/en-us/hotels/arbrn-residence-inn-ann-arbor-north)   
 Distance to Michigan League: 3.8 miles   
 
-**Note:** You can also find many more hotel options using tools such as [Expedia.com](https://www.expedia.com/) and [booking.com](https://www.booking.com/). 
+**Note:** You can also find many more hotel options using tools such as [Expedia.com](https://www.expedia.com/) and [Booking.com](https://www.booking.com/). 
