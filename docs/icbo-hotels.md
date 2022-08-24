@@ -7,7 +7,7 @@ Note that [Ann Arbor](https://en.wikipedia.org/wiki/Ann_Arbor,_Michigan) is a co
 
 We have put together a Google Doc with informaton about [ICBO 2022 hotel options](https://docs.google.com/document/d/1_set_ag3YpJvE7QBmcvEUX41IYTY-R7p/edit). We update the document as often as possible. 
 
-Below is list of hotels outside Ann Arbor for the night of September 24 (or even earlier): 
+Below is list of hotels outside Ann Arbor good for the night of September 24 (or other days): 
 
 **Hotel name:** The Westin Detroit Metropolitan Airport
 Phone: +1 734-942-6500
