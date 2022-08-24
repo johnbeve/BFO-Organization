@@ -10,18 +10,18 @@ We have put together a Google Doc with informaton about [ICBO 2022 hotel options
 Below is list of hotels outside Ann Arbor good for the night of September 24 (or other days): 
 
 **Hotel name:** The Westin Detroit Metropolitan Airport
-Phone: +1 734-942-6500
-Address: 2501 Worldgateway Place, Detroit, Michigan 48242 USA 
-Website: [https://www.marriott.com/en-us/hotels/dtwma-the-westin-detroit-metropolitan-airport/overview/](https://www.marriott.com/en-us/hotels/dtwma-the-westin-detroit-metropolitan-airport/overview/)
+Phone: +1 734-942-6500   
+Address: 2501 Worldgateway Place, Detroit, Michigan 48242 USA   
+Website: [https://www.marriott.com/en-us/hotels/dtwma-the-westin-detroit-metropolitan-airport/overview/](https://www.marriott.com/en-us/hotels/dtwma-the-westin-detroit-metropolitan-airport/overview/)   
 Distance to [Michigan League](https://uunions.umich.edu/league/): ~25 miles.  
 
 **Hotel name:** Comfort Suites
-Phone: +1 734-981-1010
-Address: 5730 North Haggerty Road, Canton, MI, 48187, US
-Website: [https://www.choicehotels.com/michigan/canton/comfort-suites-hotels/mi291?checkInDate=2022-09-24&checkOutDate=2022-09-25](https://www.choicehotels.com/michigan/canton/comfort-suites-hotels/mi291?checkInDate=2022-09-24&checkOutDate=2022-09-25)
+Phone: +1 734-981-1010   
+Address: 5730 North Haggerty Road, Canton, MI, 48187, US   
+Website: [https://www.choicehotels.com/michigan/canton/comfort-suites-hotels/mi291?checkInDate=2022-09-24&checkOutDate=2022-09-25](https://www.choicehotels.com/michigan/canton/comfort-suites-hotels/mi291?checkInDate=2022-09-24&checkOutDate=2022-09-25)   
 Distance to [Michigan League](https://uunions.umich.edu/league/): ~ 19 miles.  
 
-
+     
 Below is list of hotels in Ann Arbor for the nights from September 25: 
 
 **Hotel name:** INN at the Michigan League  
