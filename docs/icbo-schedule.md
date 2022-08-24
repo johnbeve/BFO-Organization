@@ -119,6 +119,10 @@ Jobst Landgrebe, and Barry Smith (30 minutes)
 #### Morning Session
 ```txt
 8:00 – 9:00 am Breakfast at Michigan League
+
+8:45 – 9:00 am   
+Introduction of CCBOT 2022: Chinese Conference on Biomedical Ontology and Terminology   
+Xiaolin Yang (15 minutes)
 ```
 ```txt
 9:00 – 9:15 am BFO/ISO Celebration
