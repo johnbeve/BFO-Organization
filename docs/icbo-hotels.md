@@ -28,6 +28,7 @@ Below is list of hotels in Ann Arbor for the nights from September 25:
 Phone: +1 734-764-3177   
 Address: 911 N. University Ave, Ann Arbor, MI 48109-1265   
 Website: [https://inn.studentlife.umich.edu/](https://inn.studentlife.umich.edu/)   
+Note: We do not have a "Group Code" for the hotel booking since such a code does not provide discount anyway.   
 Distance to Michigan League (meeting venue): 0 mile   
 
 **Hotel name:** Bell Tower   
