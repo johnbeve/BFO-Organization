@@ -37,9 +37,9 @@ In partnership with the [Journal of Biomedical Semantics](https://jbiomedsem.bio
 ## Submission Format
 Workshop, abstract, and paper submissions should be formatted according to the <a href="https://docs.google.com/document/d/1zqp3oXjl5ooFw6Bb5C-cEOPXQIcolzRJ/edit?usp=sharing&ouid=106653010360062214642&rtpof=true&sd=true" target="_blank">CEUR-Template-2col.docx template</a> (<a href="https://github.com/ICBO-conference/icbo2022/raw/main/docs/CEUR-Template-2col.docx" target="_blank">download file</a>). Please submit a PDF document.    
 
-The direct template download for Latex and MS Word is also available here:  http://ceur-ws.org/Vol-XXX/CEURART.zip   
+The direct template download for Latex and MS Word is also available here: [http://ceur-ws.org/Vol-XXX/CEURART.zip](http://ceur-ws.org/Vol-XXX/CEURART.zip)      
 
-There is also an Overleaf Template available here: https://www.overleaf.com/latex/templates/template-for-submissions-to-ceur-workshop-proceedings-ceur-ws-dot-org/hpvjjzhjxzjk   
+There is also an Overleaf Template available here: [https://www.overleaf.com/latex/templates/template-for-submissions-to-ceur-workshop-proceedings-ceur-ws-dot-org/hpvjjzhjxzjk](https://www.overleaf.com/latex/templates/template-for-submissions-to-ceur-workshop-proceedings-ceur-ws-dot-org/hpvjjzhjxzjk)    
 
 Submissions to the [Journal of Biomedical Semantics](https://jbiomedsem.biomedcentral.com/) should follow their [guidelines](https://jbiomedsem.biomedcentral.com/submission-guidelines).
 
