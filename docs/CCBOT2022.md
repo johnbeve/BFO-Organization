@@ -1,4 +1,4 @@
-**CCBOT 2022：Chinese Conference on Biomedical Ontology and Terminology**
+# CCBOT 2022：Chinese Conference on Biomedical Ontology and Terminology
 
 **Organizers**: Yan Zhu, Wei Zhou and Xiaolin Yang   
 **Contact**: yangxl@pumc.edu.cn; yangxl74@gmail.com；zhuyan166@126.com    
