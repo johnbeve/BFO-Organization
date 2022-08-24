@@ -113,8 +113,9 @@ Jobst Landgrebe, and Barry Smith (30 minutes)
 ```
 ```txt
 6:30 – 9:00 pm Grill Party & Dinner at Island Park Shelter B       
-Address: Island Park, 1420 Island Drive, Ann Arbor MI 48105. Please reference the [Island Park map](https://www.a2gov.org/departments/Parks-Recreation/park-rental/Documents/island%20park%20rec1%202022.pdf) for the location of Island Park Shelter B.   
-Note: Island Park is approximately 1 mile walking distance from Michigan League (meeting venue). 
+Address: Island Park, 1420 Island Drive, Ann Arbor MI 48105   
+Note: This is ~ 1 mile walking distance from Michigan League (meeting venue)    
+Island Park map: https://www.a2gov.org/departments/Parks-Recreation/park-rental/Documents/island%20park%20rec1%202022.pdf   
 ```
 
 ### Wednesday, September 28, 2022
