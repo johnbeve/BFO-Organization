@@ -21,6 +21,12 @@ Address: 5730 North Haggerty Road, Canton, MI, 48187, US
 Website: [https://www.choicehotels.com/michigan/canton/comfort-suites-hotels/mi291?checkInDate=2022-09-24&checkOutDate=2022-09-25](https://www.choicehotels.com/michigan/canton/comfort-suites-hotels/mi291?checkInDate=2022-09-24&checkOutDate=2022-09-25)   
 Distance to [Michigan League](https://uunions.umich.edu/league/): ~ 19 miles.  
 
+**Hotel name:** Extended Stay America Suites - Detroit - Canton   
+Phone: +1 855-428-3791   
+Address: 2000 Haggerty Road, Canton, MI 48187   
+Website: [https://www.extendedstayamerica.com/hotels/mi/detroit/canton]([https://www.choicehotels.com/michigan/canton/comfort-suites-hotels/mi291?checkInDate=2022-09-24&checkOutDate=2022-09-25](https://www.extendedstayamerica.com/hotels/mi/detroit/canton)   
+Distance to [Michigan League](https://uunions.umich.edu/league/): ~ 19 miles.  
+
      
 Below is list of hotels in Ann Arbor for the nights from September 25: 
 
