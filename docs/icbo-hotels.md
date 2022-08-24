@@ -1,7 +1,7 @@
 # ICBO 2022 Hotel Options
 
 **Note:** Due to a football game at Ann Arbor on September 24, it may be difficult to book a hotel room on
-September 24 in Ann Arbor. If you would like to come on September 24, one suggestion is to reserve a hotel room outside Ann Arbor, and then reserve the other nights after September 24 inside Ann Arbor. We will also consider transportation early on September 25 if there is a need.  
+September 24 in Ann Arbor. If you would like to come on September 24, one suggestion is to reserve a hotel room outside Ann Arbor, and then reserve the other nights after September 24 inside Ann Arbor. We may also consider transportation early in the morning of September 25 if there is a need.  
 
 Note that [Ann Arbor](https://en.wikipedia.org/wiki/Ann_Arbor,_Michigan) is a college town surrounded by many other neighboring towns such as [Ypsilanti](https://en.wikipedia.org/wiki/Ypsilanti,_Michigan) and [Canton](https://en.wikipedia.org/wiki/Canton,_Michigan). [Detroit Metropolitan Airport (DTW)](https://en.wikipedia.org/wiki/Detroit_Metropolitan_Airport), the area's large international airport, is about 25 miles (40 km) east of the city. Therefore, it is relatively easy to find hotels outside Ann Arbor (if it is difficult to find one inside Ann Arbor) and transport to [Michigan League](https://uunions.umich.edu/league/), the meeting venue (Address: 911 North University Ann Arbor, MI 48109) at Ann Arbor.  
 
