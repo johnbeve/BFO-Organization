@@ -57,9 +57,14 @@ will be held virtually on September 21, 2022. See website for details.
 ```txt
 9:00 – 9:15 am Welcome/Introduction
 
-9:15 – 9:45 am JBMS Journal Track Talk 1 (30 minutes)
+9:15 – 9:45 am JBMS Journal Track Talk 1 
+The Environmental Conditions, Treatments, and Exposures Ontology (ECTO): Connecting Toxicology and Exposure to Human Health and Beyond
+Lauren E. Chan (30 minutes)
 
-9:45 – 10:15 am JBMS Journal Track Talk 2 (30 minutes)
+9:45 – 10:15 am JBMS Journal Track Talk 2 
+A Comprehensive Update on CIDO: The Community-based Coronavirus Infectious Disease Ontology
+Yongqun "Oliver" He (30 minutes)
+
 ```
 10:15 – 10:30 am Coffee Break
 ```txt
@@ -159,15 +164,16 @@ Anna Maria Masci (20 minutes)
 
 #### Afternoon Session
 ```txt
-1:30 – 2:00 pm JBMS Journal Track Talk 3 (30 minutes)
+1:30 – 2:00 pm JBMS Journal Track Talk 3 
+Identification of missing hierarchical relations in the vaccine ontology using acquired term pairs 
+Warren Manuel (30 minutes)
 
 2:00 – 2:20 pm 
 OMOP-2-OPMI: Ontologization of OMOP CDM using OPMI to support clinical data interoperability and analysis 
 Long Tran (20 minutes)
 
 2:20 – 2:40 pm 
-An Ontological Representation of Money with a View Toward Economic
-Determinants of Health. 
+An Ontological Representation of Money with a View Toward Economic Determinants of Health. 
 Matthew Diller (20 minutes)
 ```
 2:40 – 2:50 pm Coffee Break
