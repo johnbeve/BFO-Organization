@@ -42,5 +42,6 @@ If you plan to attend virtually, you are required to fill out this [registration
 
 Cancellation notification must be received no later than September 22nd in order to qualify for a refund. There will be a $50 fee associated with canceling your registration. Requests received after September 22nd will not qualify for a refund. To cancel your registration, please contact Conference and Event Services via e-mail at conferences@umich.edu or by phone at 734.764.2000.
 
+## Consent to Use Photographic Images
 
-
+Registration and participation in ICBO 2022 meetings and activities constitutes an agreement by the registrant to ICBO’s use and distribution of the registrant or attendee’s images or voice in photographs, videotapes, electronic reproductions, and audio record of such events and activities.
