@@ -38,3 +38,9 @@ Virtual attendance is free.
 
 If you plan to attend virtually, you are required to fill out this [registration form](https://docs.google.com/forms/d/1ca255se55ZNkq-zqiFj3Ecd0fmIt1RFfJ3drayW5xto/viewform?edit_requested=true) in order to receive the meeting's Zoom link.
 
+## Refunds and Cancellations
+
+Cancellation notification must be received no later than September 22nd in order to qualify for a refund. There will be a $50 fee associated with canceling your registration. Requests received after September 22nd will not qualify for a refund. To cancel your registration, please contact Conference and Event Services via e-mail at conferences@umich.edu or by phone at 734.764.2000.
+
+
+
