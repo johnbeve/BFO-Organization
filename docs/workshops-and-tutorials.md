@@ -5,6 +5,25 @@
 
 The Ontology of Medically Related Social Entities (OMRSE) is being developed to provide a framework for modeling demographic data that is compatible with BFO and with Open Biomedical Ontologies (OBO) Foundry best practices. Recent developments include representations of organizations, roles, facilities, demographic data, enrollment in insurance plans, and data about socio-economic indicators. At the same time, a number of ontology groups have been working on BFO-conformant ontologies in the financial and legal realms, covering phenomena such as insurance or liability at a more general level. The goal of this workshop is to provide a forum in which the contributions of ontologies in these domains can be critically reviewed, and potential opportunities for collaboration identified.
 
+*Time*: 1:30 pm – 4:45 pm, Monday, September 26, 2022
+
+#### Agenda
+```txt
+1:30 pm Mathias Brochhausen, University of Arkansas for Medical Sciences	
+Legal entities and Trauma care - the TIPTOE Perspective
+
+2:15	pm Matt Diller, University of Florida	Representing 
+Ownership and Access to Material Needs in OWL 2
+
+3:00	pm BREAK	
+
+3:15	pm Ryan Ricucci, US Customs and Border Patrol	
+Healthcare on the Border: An Ontological View
+
+4:00	pm Barry Smith, University at Buffalo	
+The Ontology of Social Services 
+```
+
 ## The 6th International Cells in Experimental Life Science Workshop, CELLS 2022
 *Organizers*: Alexander D. Diehl and Yongqun He   
 *Website*: [https://sites.google.com/view/cells-2022-workshop/home](https://sites.google.com/view/cells-2022-workshop/home)
