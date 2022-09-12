@@ -12,15 +12,15 @@ The Ontology of Medically Related Social Entities (OMRSE) is being developed to 
 1:30 pm Mathias Brochhausen, University of Arkansas for Medical Sciences	
 Legal entities and Trauma care - the TIPTOE Perspective
 
-2:15	pm Matt Diller, University of Florida	Representing 
+2:15 pm Matt Diller, University of Florida	Representing 
 Ownership and Access to Material Needs in OWL 2
 
-3:00	pm BREAK	
+3:00 pm BREAK	
 
-3:15	pm Ryan Ricucci, US Customs and Border Patrol	
+3:15 pm Ryan Ricucci, US Customs and Border Patrol	
 Healthcare on the Border: An Ontological View
 
-4:00	pm Barry Smith, University at Buffalo	
+4:00 pm Barry Smith, University at Buffalo	
 The Ontology of Social Services 
 ```
 
