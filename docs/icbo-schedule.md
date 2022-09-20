@@ -99,7 +99,7 @@ Melissa Resnick (20 minutes)
 
 1:50 – 2:10 pm 
 Using Ontologies to Enhance Data on Intimate Partner Violence
-S. Clint Dowland (20 minutes)
+William Hogan (20 minutes)
 
 2:10 – 2:30 pm 
 An ontology for healthcare systems
