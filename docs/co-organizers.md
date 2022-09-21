@@ -7,11 +7,12 @@
 - Hande Küçük McGinty, Ohio University
 
 # Sponsor organizations:  
-- Unit for Laboratory Animal Medicine (ULAM), University of Michigan Medical School, Ann Arbor, MI, USA.
+- Unit for Laboratory Animal Medicine, University of Michigan Medical School, Ann Arbor, MI, USA.
 - Department of Computational Medicine and Bioinformatics, University of Michigan Medical School, Ann Arbor, MI, USA. 
+- Michigan Institute for Data Science, University of Michigan Medical School, Ann Arbor, MI, USA.  
 
 # Administrative Support:  
-- Stella Zhou, ULAM
+- Stella Zhou, Unit for Laboratory Animal Medicine (ULAM), University of Michigan Medical School.
 - Kadi Brinson, ULAM
 - Valerie Hill, ULAM. 
 
