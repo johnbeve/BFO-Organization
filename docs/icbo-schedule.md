@@ -103,7 +103,7 @@ William Hogan (20 minutes)
 
 2:10 – 2:30 pm 
 An ontology for healthcare systems
-François Goyer (20 minutes)
+Paul Fabry (20 minutes)
 
 2:30 – 3:00 pm 
 Perspectives on machine learning
