@@ -7,7 +7,7 @@
 - Hande Küçük McGinty, Ohio University
 
 # Sponsor organization:  
-- Unit for Laboratory Animal Medicine (ULAM), University of Michigan Medical School
+- Unit for Laboratory Animal Medicine (ULAM), University of Michigan Medical School, Ann Arbor, MI, USA. 
 
 # Administrative Support:  
 - Stella Zhou, ULAM
