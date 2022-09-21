@@ -10,4 +10,4 @@ CCBOT 2022 will be held on Sep 28-29, 2022 in Beijing. The conference will be ho
 
 CCBOT 2022 also is a joint conference of ICBO 2022. We will invite some plenary speakers to show their speeches for our meeting. We also invited some scholars domestic in China to introduce their progress, especially in semantic standardization and data stewardship.  
 
-See CCBOT 2022 Schedule: [http://www.ontochina.org/ccbot2022/schedule_en.html](http://www.ontochina.org/ccbot2022/schedule_en.html).  
+CCBOT 2022 Schedule is here: [http://www.ontochina.org/ccbot2022/schedule_en.html](http://www.ontochina.org/ccbot2022/schedule_en.html).  
