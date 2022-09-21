@@ -2,7 +2,7 @@
 
 **Organizers**: Yan Zhu, Wei Zhou and Xiaolin Yang   
 **Contact**: yangxl@pumc.edu.cn; yangxl74@gmail.com；zhuyan166@126.com    
-**Website**: http://www.ontochina.org/ccbot2022/index_en.html (English); http://www.ontochina.org/ccbot2022/ (Chinese).    
+**Website**: [http://www.ontochina.org/ccbot2022/index_en.html](http://www.ontochina.org/ccbot2022/index_en.html) (English); [http://www.ontochina.org/ccbot2022/](http://www.ontochina.org/ccbot2022/) (Chinese).    
 
 The Chinese Conference on Biomedical Ontology and Terminology (CCBOT) is an annual academic conference series focusing on developing and applying bio-ontologies in China. 
 
