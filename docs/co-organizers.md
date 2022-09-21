@@ -6,8 +6,9 @@
 - William Duncan, University of Florida
 - Hande Küçük McGinty, Ohio University
 
-# Sponsor organization:  
-- Unit for Laboratory Animal Medicine (ULAM), University of Michigan Medical School, Ann Arbor, MI, USA. 
+# Sponsor organizations:  
+- Unit for Laboratory Animal Medicine (ULAM), University of Michigan Medical School, Ann Arbor, MI, USA.
+- Department of Computational Medicine and Bioinformatics, University of Michigan Medical School, Ann Arbor, MI, USA. 
 
 # Administrative Support:  
 - Stella Zhou, ULAM
