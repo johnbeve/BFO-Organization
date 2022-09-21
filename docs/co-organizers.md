@@ -15,6 +15,6 @@
 - Valerie Hill, ULAM. 
 
 # Volunteer Support:  
-- Anthony Huffman, PhD candidate in Bioinformatics, University of Michigan Medical School 
+- Anthony Huffman, Department of Computational Medicine and Bioinformatics, University of Michigan Medical School 
 - Sam Smith, Detroit, MI, USA. 
 
