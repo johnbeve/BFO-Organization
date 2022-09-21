@@ -5,3 +5,16 @@
 - Sivaram Arabandi, Ontopro
 - William Duncan, University of Florida
 - Hande Küçük McGinty, Ohio University
+
+# Sponsor organization:  
+- Unit for Laboratory Animal Medicine (ULAM), University of Michigan Medical School
+
+# Administrative Support:  
+- Stella Zhou, ULAM
+- Kadi Brinson, ULAM
+- Valerie Hill, ULAM. 
+
+# Volunteer Support:  
+- Anthony Huffman, PhD candidate in Bioinformatics, University of Michigan Medical School 
+- Sam Smith, Detroit, MI, USA. 
+
