@@ -13,8 +13,8 @@
 
 # Administrative Support:  
 - Stella Zhou, Unit for Laboratory Animal Medicine (ULAM), University of Michigan Medical School.
-- Kadi Brinson, ULAM
-- Valerie Hill, ULAM. 
+- Kadi Brinson, ULAM, University of Michigan Medical School.
+- Valerie Hill, ULAM, University of Michigan Medical School. 
 
 # Volunteer Support:  
 - Anthony Huffman, Department of Computational Medicine and Bioinformatics, University of Michigan Medical School 
