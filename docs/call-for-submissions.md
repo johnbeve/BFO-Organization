@@ -43,6 +43,11 @@ There is also an Overleaf Template available here: [https://www.overleaf.com/lat
 
 Submissions to the [Journal of Biomedical Semantics](https://jbiomedsem.biomedcentral.com/) should follow their [guidelines](https://jbiomedsem.biomedcentral.com/submission-guidelines).
 
+## Poster preparation guideline
+The poster boards are self-standing with legs, four feet wide by three feet high (landscape). The fabric is grey on one sidle and black on the other. Light-weight posters, photos, and couments can be affixed to the displays using thumbtacks.
+
+Therefore, the maximum size of your poster will be 4’ wide by 3’ high. 
+
 ## ICBO 2022 theme: Lessons from Ontologies in Diverse Domains 
 
 The focus of our 2022 conference is "Lessons from Ontologies in Diverse Domains". 
