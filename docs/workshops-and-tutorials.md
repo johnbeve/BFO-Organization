@@ -37,7 +37,7 @@ Please visit the CELLS [website](https://sites.google.com/view/cells-2022-worksh
 ## FAIR ontology harmonization and TRUST data interoperability (FOHTI)
 *Organizers*: Asiyah Yu Lin and Gary Berg-Cross<br>
 *Contact*: asiyah.lin@nih.gov;gbergcross@gmail.com<br>
-*Submission*: [https://easychair.org/my/conference?conf=fohti2022](https://easychair.org/my/conference?conf=fohti2022)
+*website*: [FOHTI](https://github.com/ICBO-conference/icbo2022/blob/main/docs/FOHTI.md)
 
 Many diverse ontologies and, increasingly, knowledge graphs (KGs) and other semantic resources have been developed across the biomedical and other domains. Although ontologies and associated KGs are often developed and used for specific needs there may be common knowledge across a specific domain as well as at a higher level, making some degree of knowledge and data alignment possible across many domains. To avoid organizations spending time and resources to model and represent that common knowledge, it is desirable to develop some consensus on a range of relevant semantic resources. Many types of these semantic resources exist along a semantic spectrum that includes structured vocabularies and high-level domain ontologies to support a wide range of use cases.
 
