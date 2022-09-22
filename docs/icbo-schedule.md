@@ -43,7 +43,8 @@ Parallel Sessions
 1:30 – 5:00 pm 11th Vaccine and Drug Ontology Studies (VDOS-2022)
 3:00 – 3:15 pm Coffee Break
 5:00 – 6:30 pm Welcome Reception at Michigan League
-6:30 – 7:30 pm Keynote Talk presented by Chris Stoeckert  
+6:30 – 7:30 pm Keynote Talk presented by Chris Stoeckert. Title: "Striving for semantic harmony across datasets, communities, and real-world data". 
+
 
 Note: The 6th International Cells in Experimental Life Science Workshop, CELLS 2022, 
 will be held virtually on September 21, 2022. See website for details.
@@ -111,9 +112,14 @@ Jobst Landgrebe, and Barry Smith (30 minutes)
 ```
 3:00 – 3:15 pm Coffee Break
 ```txt
-3:15 – 4:00 pm Invited Talk: Robert Hoerndorf (45 minutes)
-4:00 – 4:15 pm Sponsored talk (15 minutes)
+3:15 – 4:00 pm Invited Talk: 
+The coevolution of ontologies and knowledge-based analytics in bioinformatics
+Robert Hoerndorf (45 minutes) 
+
+4:00 – 4:15 pm BFO/ISO Celebration (15 minutes)
+
 4:15 – 4:45 pm Flash talks for posters/software demos (2 minutes each)
+
 4:45 – 6:30 pm Poster Session
 ```
 ```txt
@@ -127,13 +133,11 @@ Island Park map: https://www.a2gov.org/departments/Parks-Recreation/park-rental/
 #### Morning Session
 ```txt
 8:00 – 9:00 am Breakfast at Michigan League
-
-8:45 – 9:00 am   
-Introduction of CCBOT 2022: Chinese Conference on Biomedical Ontology and Terminology   
-Xiaolin Yang (15 minutes)
 ```
 ```txt
-9:00 – 9:15 am BFO/ISO Celebration
+9:00 – 9:15 am 
+Introduction of CCBOT 2022: Chinese Conference on Biomedical Ontology and Terminology   
+Xiaolin Yang (15 minutes)
 
 9:15 – 10:15 am Keynote Talk presented by Susan Gregurick
 ```
