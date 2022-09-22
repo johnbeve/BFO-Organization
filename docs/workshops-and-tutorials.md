@@ -45,9 +45,16 @@ They may specify necessary conditions which allow checking whether an instance o
 
 
 ## Workshop on Ontology Tools and Workflows
-*Organizers*: James A. Overton, Charles Tapley Hoyt and Christopher J. Mungall
+*Organizers*: James A. Overton, Charles Tapley Hoyt and Christopher J. Mungall<br>
+*Website*: [ICBO 2022 Workshop on Ontology Tools and Workflows](https://docs.google.com/document/d/1zswfYOVI7YI46lg5kOuig5tAFOLnkC1d-rWYQHCC9SA/edit#)
 
-We propose a workshop on ontology tools and workflows at ICBO 2022, that will complement the software demonstration track by providing a forum for ontology tool developers and maintainers to discuss their software, workflows, and future directions.
+Tools and workflows for ontology development and ontology use have grown increasingly powerful over the past decade, building on trends and tools from the larger open source software development community. ICBO 2017 included a workshop on tools and workflows for ontology editing, and this workshop ICBO 2022 provides an opportunity for tool developers and users to come together and discuss advances and changes of the past five years.
+
+This year's hybrid in-person and remote workshop is divided into two parts:
+
+OWL Beyond Java: OWLAPI has been the foundation of ontology tooling, especially in the OBO community. Editors such as Protege and automation tools such as ROBOT rely on OWLAPI to do the heavy lifting for their core operations. Recently a number of projects have emerged that can provide some of the OWLAPI's functionality with a different set of benefits and tradeoffs, such as: access from other languages, such as Python; alternative APIs; reduced memory usage and greater speed for certain operations; persisting OWL axioms to a database; and more. The first half of the workshop will include presentations on these various new tools and a group discussion of their applications, limitations, and benefits.
+
+Convergence: Interoperability is a central goal for linked data technologies and the OBO community, but we face many obstacles and have limited resources. The theme of this session is convergence on: standards such as prefixes and CURIEs; term access and metadata; quality control rules and reporting; best practices for open source development; workflows such as imports and modules; and editing tools, and their integration into workflows. In our group discussion we will consider how to connect and coordinate development, without sacrificing the benefits of diversity in our open source community.
 
 ## 11th Vaccine and Drug Ontology Studies (VDOS-2022)
 *Organizers*: Junguk Hur, Cui Tao and Yongqun He   
