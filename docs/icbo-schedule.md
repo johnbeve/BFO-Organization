@@ -46,8 +46,8 @@ Parallel Sessions
 1:30 – 5:00 pm 11th Vaccine and Drug Ontology Studies (VDOS-2022)
 3:00 – 3:15 pm Coffee Break
 5:00 – 6:30 pm Welcome Reception at Michigan League
-6:30 – 7:30 pm Keynote Talk presented by Chris Stoeckert. Title: "Striving for semantic harmony across datasets, communities, and real-world data". 
-
+6:30 – 7:30 pm Keynote Talk presented by Chris Stoeckert. 
+Keynote Title: "Striving for semantic harmony across datasets, communities, and real-world data". 
 
 Note: The 6th International Cells in Experimental Life Science Workshop, CELLS 2022, 
 will be held virtually on September 21, 2022. See website for details.
