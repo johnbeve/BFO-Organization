@@ -1,5 +1,7 @@
 # ICBO 2022: International Conference on Biomedical Ontology
 
+Theme of ICBO 2022: Lessons from Ontologies in Diverse Domains
+
 ## Location
 
 The 2022 International Conference of Biomedical Ontology (ICBO 2022) will be held in 2022 at the [Michigan League](https://uunions.umich.edu/league/), [University of Michigan](https://umich.edu/), Ann Arbor, MI, USA. 
