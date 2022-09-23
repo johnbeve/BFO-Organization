@@ -35,7 +35,7 @@ CELLS 2022 will take place as a half-day virtual workshop and will be free for a
 Please visit the CELLS [website](https://sites.google.com/view/cells-2022-workshop/home) for submission details.
 
 ## FAIR ontology harmonization and TRUST data interoperability (FOHTI)
-*Date and time*: Monday, September 26, 2022 (9am-12:30pm ET)
+*Date and time*: Monday, September 26, 2022 (9am-12:30pm ET)<br>
 *Organizers*: Asiyah Yu Lin, Nomi Harris, and Gary Berg-Cross<br>
 *Contact*: asiyah.lin@nih.gov;gbergcross@gmail.com<br>
 *Website*: [FOHTI-22](https://github.com/ICBO-conference/icbo2022/blob/main/docs/FOHTI.md)
