@@ -35,17 +35,16 @@ CELLS 2022 will take place as a half-day virtual workshop and will be free for a
 Please visit the CELLS [website](https://sites.google.com/view/cells-2022-workshop/home) for submission details.
 
 ## FAIR ontology harmonization and TRUST data interoperability (FOHTI)
+*Date and time*: Monday, September 26, 2022 (9am-12:30pm ET)
 *Organizers*: Asiyah Yu Lin and Gary Berg-Cross<br>
 *Contact*: asiyah.lin@nih.gov;gbergcross@gmail.com<br>
-*website*: [FOHTI](https://github.com/ICBO-conference/icbo2022/blob/main/docs/FOHTI.md)
+*Website*: [FOHTI](https://github.com/ICBO-conference/icbo2022/blob/main/docs/FOHTI.md)
 
 Many diverse ontologies and, increasingly, knowledge graphs (KGs) and other semantic resources have been developed across the biomedical and other domains. Although ontologies and associated KGs are often developed and used for specific needs there may be common knowledge across a specific domain as well as at a higher level, making some degree of knowledge and data alignment possible across many domains. To avoid organizations spending time and resources to model and represent that common knowledge, it is desirable to develop some consensus on a range of relevant semantic resources. Many types of these semantic resources exist along a semantic spectrum that includes structured vocabularies and high-level domain ontologies to support a wide range of use cases.
 
 A relevant context for this work is the Findability, Accessibility, Interoperability, and Reuse (FAIR) principle and the Transparency, Responsibility, User Focus, Sustainability (TRUST) principle, which have been established and accepted by the global scientific community for digital objects. Can these principles also be applied to ontologies and other semantic resources which support ample opportunities for data discovery, trust, sharing, reuse and value of various datasets; as well as enabling wide access to dataset quality information? To accomplish all these goals at the data level, FAIR and TRUSTworthy ontology harmonization is an important first step. To do this we need to develop, improve, and disseminate community agreed upon best practices for harmonizing semantic resources at all levels.
 
 This workshop aims to look for examples, technologies, and methodologies utilized for developing FAIR ontology and harmonization, as well as to discuss how harmonization across the semantic spectrum will facilitate data interoperability and the TRUST principle. In this workshop, we will discuss what has worked to create FAIR and TRUST principles that can help harmonize semantic resources, and what FAIR and TRUSTworthy domain-engaged semantic resource harmonization governance might look like.
-
-The FOHTI schedule is available [here](https://docs.google.com/document/d/1WAuNwv_kD3AGOX0U7qBNYzw520XjpldGNmbjkLDNy2o/edit#heading=h.k5ueu9657mpa).
 
 ## Workshop on Ontology Tools and Workflows
 *Organizers*: James A. Overton, Charles Tapley Hoyt and Christopher J. Mungall<br>
@@ -77,6 +76,7 @@ The Open Biological and Biomedical Ontologies (OBO) community includes hundreds 
 A food processing discussion group within the Joint Food Ontology Workgroup has proposed a general OBO Foundry compatible food processing ontology and more specific recipe model which is currently focused on the combination of ingredients, devices, and recipe steps. The recipe model needs to be tested out on real-world recipe databases, to develop the kinds of RDF data structures and queries that are of practical use within food science, but which also have direct application in interoperability with other ontology-driven models of nutrient estimation, food related individual and population health, environmental impact of ingredients, and food supply chain traceability. This workshop aims to create RDF views of other recipe database content from the perspective of OBO Foundry ontologies, including FoodOn, ChEBI, and units of measure ontologies. Hacking can take on a number of challenges including Named Entity Recognition of recipe ingredients in free text recipes, to the representation of multi-component foods such as contained in food composition databases (e.g. world.openfoodfacts.org), to the transformation of semi-normalized recipe databases into pure food process ontology form. Additional work on expanding the recipe ontology representation beyond its “lab bench” purview into more nuanced cultural and historical representation of food knowledge is welcome too!
 
 ## LinkML Workshop/Tutorial
+*Date and time*: Sunday, September 25, 2022 (9am-12pm ET)
 *Organizers*: Christopher Mungall, Sierra Moxon, Mark Miller, Nomi Harris and Tim Putnam
 
 The [Linked data Modeling Language](https://linkml.io) is an object-oriented data modeling framework that aims to bring semantic web standards into a familiar modeling paradigm, simplifying the production of FAIR ontology-ready data. It can be used for schematizing a variety of kinds of data, ranging from simple flat checklist-style standards to complex interrelated normalized data utilizing polymorphism/inheritance. One major benefit to LinkML is that the framework provides not only the modeling components but also the software and tools needed to load, output, and validate data conforming to a LinkML model. 
