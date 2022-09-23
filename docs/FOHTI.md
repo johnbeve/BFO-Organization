@@ -1,5 +1,5 @@
 # The first FAIR Ontology Harmonization and TRUST Data Interoperability Workshop (FOHTI-22) 
-co-organized by [Asiyah Y. Lin](https://www.linkedin.com/in/dryulin/), [Gary Berg-Cross](https://www.linkedin.com/in/gary-berg-cross-53a1242/), and [Nomi Harris](https://www.linkedin.com/in/nomiharris/) 
+Co-organized by [Asiyah Y. Lin](https://www.linkedin.com/in/dryulin/), [Gary Berg-Cross](https://www.linkedin.com/in/gary-berg-cross-53a1242/), and [Nomi Harris](https://www.linkedin.com/in/nomiharris/) 
 
 This web page includes two sections: (1) [Workshop Overview](#workshop-overview), and (ii) [Schedule Details](#schedule-details).
 
@@ -50,5 +50,5 @@ Moderators: Asiyah Y. Lin and Gary Berg-Cross
 #### 4:30 pm -4:45 pm EDT
 Introductory remarks by panelists (5 minutes each)
 
-#### 4:45 pm -5:30 pm EDT
+#### 4:45 pm -6:00 pm EDT
 Q&A with audienceParallel Sessions
