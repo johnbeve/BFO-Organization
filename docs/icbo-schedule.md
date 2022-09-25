@@ -86,22 +86,22 @@ will be held virtually on September 21, 2022. See website for details.
 ```txt
 10:55 – 11:20 am John Beverley (25 minutes)
 ```
-**[Coordinating Coronavirus Research: The Virus Infectious Disease Ontology](papers/ICBO-2022_paper_3877)**
+**[Coordinating Coronavirus Research: The Virus Infectious Disease Ontology](papers/ICBO-2022_paper_3877.pdf)**
 
 ```txt
 11:20 – 11:45 pm Sabrina Toro (25 minutes)
 ```
-**[Classifying Animal Breeds with the Vertebrate Breed Ontology](papers/ICBO-2022_paper_1882)**
+**[Classifying Animal Breeds with the Vertebrate Breed Ontology](papers/ICBO-2022_paper_1882.pdf)**
 
 ```txt
 11:45 – 12:10 pm Fumiaki Toyoshima (25 minutes)
 ```
-**[An Ontological Approach to Developing a Unified and Interdisciplinary Framework for Aging](papers/ICBO-2022_paper_2504)**
+**[An Ontological Approach to Developing a Unified and Interdisciplinary Framework for Aging](papers/ICBO-2022_paper_2504.pdf)**
 
 ```txt
 12:10 – 12:30 pm Anuwat Pengput (20 minutes)
 ```
-**[Ontology representation for Cholangiocarcinoma](papers/ICBO-2022_paper_9692)**
+**[Ontology representation for Cholangiocarcinoma](papers/ICBO-2022_paper_9692.pdf)**
 
 
 12:30 – 1:30 pm Lunch at Michigan League  
@@ -111,17 +111,17 @@ will be held virtually on September 21, 2022. See website for details.
 ```txt
 1:30 – 1:50 pm Melissa Resnick (20 minutes)
 ```
-**[The Gaps in the Terminological Representation of the ACORN Social Determinants of Health Survey](ICBO-2022_paper_0492)**
+**[The Gaps in the Terminological Representation of the ACORN Social Determinants of Health Survey](ICBO-2022_paper_0492.pdf)**
 
 ```txt
 1:50 – 2:10 pm William Hogan (20 minutes)
 ```
-**[Using Ontologies to Enhance Data on Intimate Partner Violence](papers/ICBO-2022_paper_6874)**
+**[Using Ontologies to Enhance Data on Intimate Partner Violence](papers/ICBO-2022_paper_6874.pdf)**
 
 ```txt
 2:10 – 2:30 pm Paul Fabry (20 minutes)
 ```
-**[An ontology for healthcare systems](papers/ICBO-2022_paper_5498)**
+**[An ontology for healthcare systems](papers/ICBO-2022_paper_5498.pdf)**
 
 ```txt
 2:30 – 3:00 pm Jobst Landgrebe, and Barry Smith (30 minutes)
@@ -174,28 +174,28 @@ _The Importance of Ontologies to Connect Data, Enhance Software, and Create a Da
 ```txt
 10:30 – 10:55 am James Balhoff (25 minutes)
 ```
-**[Ubergraph: integrating OBO ontologies into a unified semantic graph](../papers/ICBO-2022_paper_5005)**
+**[Ubergraph: integrating OBO ontologies into a unified semantic graph](papers/ICBO-2022_paper_5005.pdf)**
 
 ```txt
 10:55 – 11:20 am  Alexander Bartnik (25 minutes)
 ```
-**[Development of an Image Data Set Class: Its Role in Biomedical Imaging and Neuroimaging Research](papers/ICBO-2022_paper_2848)**
+**[Development of an Image Data Set Class: Its Role in Biomedical Imaging and Neuroimaging Research](papers/ICBO-2022_paper_2848.pdf)**
 
 
 ```txt
 11:20 – 11:45 pm Pratik Devkota (25 minutes)
 ```
-**[Knowledge of the Ancestors: Intelligent Ontology-aware Annotation of Biological Literature using Semantic Similarity](papers/ICBO-2022_paper_7217)**
+**[Knowledge of the Ancestors: Intelligent Ontology-aware Annotation of Biological Literature using Semantic Similarity](papers/ICBO-2022_paper_7217.pdf)**
 
 ```txt
 11:45 – 12:10 pm Zach Landis-Lewis (25 minutes)
 ```
-**[Performance Summary Display Ontology: Feedback intervention content, delivery, and interpreted information](papers/ICBO-2022_paper_2172)**
+**[Performance Summary Display Ontology: Feedback intervention content, delivery, and interpreted information](papers/ICBO-2022_paper_2172.pdf)**
 
 ```txt
 12:10 – 12:30 pm Anna Maria Masci (20 minutes)
 ```
-**[Environmental Health Language Collaborative (EHLC): a route to environmental health science data harmonization](papers/ICBO-2022_paper_6982)**
+**[Environmental Health Language Collaborative (EHLC): a route to environmental health science data harmonization](papers/ICBO-2022_paper_6982.pdf)**
 
 
 12:30 – 1:30 pm Lunch at Michigan League   
@@ -210,12 +210,12 @@ _The Importance of Ontologies to Connect Data, Enhance Software, and Create a Da
 ```txt
 2:00 – 2:20 pm Long Tran (20 minutes)
 ```
-**[OMOP-2-OPMI: Ontologization of OMOP CDM using OPMI to support clinical data interoperability and analysi](papers/ICBO-2022_paper_1549)s**
+**[OMOP-2-OPMI: Ontologization of OMOP CDM using OPMI to support clinical data interoperability and analysi](papers/ICBO-2022_paper_1549.pdf)**
 
 ```txt
 2:20 – 2:40 pm Matthew Diller (20 minutes)
 ```
-**[An Ontological Representation of Money with a View Toward Economic Determinants of Health](papers/ICBO-2022_paper_8682)**
+**[An Ontological Representation of Money with a View Toward Economic Determinants of Health](papers/ICBO-2022_paper_8682.pdf)**
 
 
 2:40 – 2:50 pm Coffee Break
