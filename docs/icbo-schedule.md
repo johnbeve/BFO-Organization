@@ -81,7 +81,7 @@ will be held virtually on September 21, 2022. See website for details.
 ```txt
 10:30 – 10:55 am  C. Maria Keet (25 minutes)
 ```
-**[Exploring the Ontology of Pandemic](papers/ICBO-2022_paper_9687)**
+**[Exploring the Ontology of Pandemic](papers/ICBO-2022_paper_9687.pdf)**
 
 ```txt
 10:55 – 11:20 am John Beverley (25 minutes)
