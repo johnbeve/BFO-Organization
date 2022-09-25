@@ -111,7 +111,7 @@ will be held virtually on September 21, 2022. See website for details.
 ```txt
 1:30 – 1:50 pm Melissa Resnick (20 minutes)
 ```
-**[The Gaps in the Terminological Representation of the ACORN Social Determinants of Health Survey](ICBO-2022_paper_0492.pdf)**
+**[The Gaps in the Terminological Representation of the ACORN Social Determinants of Health Survey](papers/ICBO-2022_paper_0492.pdf)**
 
 ```txt
 1:50 – 2:10 pm William Hogan (20 minutes)
