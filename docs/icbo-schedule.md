@@ -236,7 +236,7 @@ _The Importance of Ontologies to Connect Data, Enhance Software, and Create a Da
   Lauren Chan, Jimmy Phuong, Anne Thessen, Stephanie Hong, Shahim Essaid and Melissa Haendel  
 - **[Development of Axiomatization for the Cholangiocarcinoma Ontology Using Common Logic Interchange Format](papers/ICBO-2022_paper_8905.pdf)**  
   Anuwat Pengput and Alexander D. Diehl
-- **[Collaborative Development of a Process Chemistry Domain Ontology, PROCO](papers/Submission_4112.pdf)**  
+- **[Collaborative Development of a Process Chemistry Domain Ontology, PROCO](papers/Submission_easychair_4112.pdf)**  
   Wes Schafer, Jan Nespor, Vincent Antonucci, Oliver He, Anna Dunn and Zachary E.X. Dance
 - **[Translating medical vocabularies via the Unified Medical Language System](papers/ICBO-2022_paper_9978.pdf)**  
   William T. Roddy, Daniel Olson, Diane Corey, Ian Braun, Terrence R. McHugh, Emily Hartley, Smith Heavner, Ramona L. Walls
@@ -272,5 +272,5 @@ _The Importance of Ontologies to Connect Data, Enhance Software, and Create a Da
   James A. Overton
 - **[The Ontology for Avida digital evolution platform (OntoAvida)](papers/ICBO-2022_paper_3396.pdf)**   
   Raul Ortega, Enrique Wulff and Miguel A. Fortuna
-- **[Investigating Ontology Use in Artificial Intelligence and Machine Learning for Biomedical Research - A Preliminary Report from A Comprehensive Literature Review](papers/Submission_5079.pdf)**  
+- **[Investigating Ontology Use in Artificial Intelligence and Machine Learning for Biomedical Research - A Preliminary Report from A Comprehensive Literature Review](papers/Submission_easychair_5079.pdf)**  
   Asiyah Lin, Tianming Ning, Paulene Grier, Lalisa Mariam Lin and Andrey Ibrahim Seleznev
