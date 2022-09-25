@@ -64,71 +64,86 @@ will be held virtually on September 21, 2022. See website for details.
 ```
 ```txt
 9:00 – 9:15 am Welcome/Introduction
-
-9:15 – 9:45 am JBMS Journal Track Talk 1 
-The Environmental Conditions, Treatments, and Exposures Ontology (ECTO): Connecting Toxicology and Exposure to Human Health and Beyond
-Lauren E. Chan (30 minutes)
-
-9:45 – 10:15 am JBMS Journal Track Talk 2 
-A Comprehensive Update on CIDO: The Community-based Coronavirus Infectious Disease Ontology
-Yongqun "Oliver" He (30 minutes)
-
 ```
-10:15 – 10:30 am Coffee Break
 ```txt
-10:30 – 10:55 am  
-Exploring the Ontology of Pandemic
-C. Maria Keet (25 minutes)
-
-10:55 – 11:20 am 
-Coordinating Coronavirus Research: The Virus Infectious Disease Ontology
-John Beverley (25 minutes)
-
-11:20 – 11:45 pm 
-Classifying Animal Breeds with the Vertebrate Breed Ontology 
-Sabrina Toro (25 minutes)
-
-11:45 – 12:10 pm 
-An Ontological Approach to Developing a Unified and Interdisciplinary Framework for Aging 
-Fumiaki Toyoshima (25 minutes)
-
-12:10 – 12:30 pm 
-Ontology representation for Cholangiocarcinoma 
-Anuwat Pengput (20 minutes)
+9:15 – 9:45 am JBMS Journal Track Talk 1 - Lauren E. Chan (30 minutes)
 ```
+**The Environmental Conditions, Treatments, and Exposures Ontology (ECTO): Connecting Toxicology and Exposure to Human Health and Beyond**
+
+```txt
+9:45 – 10:15 am JBMS Journal Track Talk 2 - Yongqun "Oliver" He (30 minutes)
+```
+**A Comprehensive Update on CIDO: The Community-based Coronavirus Infectious Disease Ontology**
+
+
+10:15 – 10:30 am Coffee Break
+
+```txt
+10:30 – 10:55 am  C. Maria Keet (25 minutes)
+```
+**Exploring the Ontology of Pandemic**
+
+```txt
+10:55 – 11:20 am John Beverley (25 minutes)
+```
+**Coordinating Coronavirus Research: The Virus Infectious Disease Ontology**
+
+```txt
+11:20 – 11:45 pm Sabrina Toro (25 minutes)
+```
+**Classifying Animal Breeds with the Vertebrate Breed Ontology**
+
+```txt
+11:45 – 12:10 pm Fumiaki Toyoshima (25 minutes)
+```
+**An Ontological Approach to Developing a Unified and Interdisciplinary Framework for Aging**
+
+```txt
+12:10 – 12:30 pm Anuwat Pengput (20 minutes)
+```
+**Ontology representation for Cholangiocarcinoma**
+
+
 12:30 – 1:30 pm Lunch at Michigan League  
 
 
 #### Afternoon Session
 ```txt
-1:30 – 1:50 pm 
-The Gaps in the Terminological Representation of the ACORN Social Determinants of Health Survey
-Melissa Resnick (20 minutes)
-
-1:50 – 2:10 pm 
-Using Ontologies to Enhance Data on Intimate Partner Violence
-William Hogan (20 minutes)
-
-2:10 – 2:30 pm 
-An ontology for healthcare systems
-Paul Fabry (20 minutes)
-
-2:30 – 3:00 pm 
-Perspectives on machine learning
-Jobst Landgrebe, and Barry Smith (30 minutes) 
+1:30 – 1:50 pm Melissa Resnick (20 minutes)
 ```
-3:00 – 3:15 pm Coffee Break
-```txt
-3:15 – 4:00 pm Invited Talk: 
-The coevolution of ontologies and knowledge-based analytics in bioinformatics
-Robert Hoerndorf (45 minutes) 
+**The Gaps in the Terminological Representation of the ACORN Social Determinants of Health Survey**
 
+```txt
+1:50 – 2:10 pm William Hogan (20 minutes)
+```
+**Using Ontologies to Enhance Data on Intimate Partner Violence**
+
+```txt
+2:10 – 2:30 pm Paul Fabry (20 minutes)
+```
+**An ontology for healthcare systems**
+
+```txt
+2:30 – 3:00 pm Jobst Landgrebe, and Barry Smith (30 minutes)
+```
+**Perspectives on machine learning**
+
+
+3:00 – 3:15 pm Coffee Break
+
+```txt
+3:15 – 4:00 pm Invited Talk: Robert Hoerndorf (45 minutes)
+```
+**The coevolution of ontologies and knowledge-based analytics in bioinformatics**
+ 
+```txt
 4:00 – 4:15 pm BFO/ISO Celebration (15 minutes)
 
 4:15 – 4:45 pm Flash talks for posters/software demos (2 minutes each)
 
 4:45 – 6:30 pm Poster Session
 ```
+
 ```txt
 6:30 – 9:00 pm Grill Party & Dinner at Island Park Shelter B       
 Address: Island Park, 1420 Island Drive, Ann Arbor MI 48105   
@@ -142,54 +157,67 @@ Island Park map: https://www.a2gov.org/departments/Parks-Recreation/park-rental/
 8:00 – 9:00 am Breakfast at Michigan League
 ```
 ```txt
-9:00 – 9:15 am 
-Introduction of CCBOT 2022: Chinese Conference on Biomedical Ontology and Terminology   
-Xiaolin Yang (15 minutes)
+9:00 – 9:15 am Xiaolin Yang (15 minutes)
 ```
+**Introduction of CCBOT 2022: Chinese Conference on Biomedical Ontology and Terminology**
+
+
+
 `9:15 – 10:15 am` **Keynote**   
 Susan Gregurick   
 _The Importance of Ontologies to Connect Data, Enhance Software, and Create a Data and Digital Health Ecosystem_   
 
 10:15 – 10:30 am Coffee Break
 ```txt
-10:30 – 10:55 am 
-Ubergraph: integrating OBO ontologies into a unified semantic graph
-James Balhoff (25 minutes)
-
-10:55 – 11:20 am 
-Development of an Image Data Set Class: Its Role in Biomedical Imaging and Neuroimaging Research
-Alexander Bartnik (25 minutes)
-
-11:20 – 11:45 pm 
-Knowledge of the Ancestors: Intelligent Ontology-aware Annotation of Biological Literature using Semantic Similarity
-Pratik Devkota (25 minutes)
-
-11:45 – 12:10 pm 
-Performance Summary Display Ontology: Feedback intervention content, delivery, and interpreted information 
-Zach Landis-Lewis (25 minutes)
-
-12:10 – 12:30 pm 
-Environmental Health Language Collaborative (EHLC): a route to environmental health science data harmonization
-Anna Maria Masci (20 minutes)
+10:30 – 10:55 am James Balhoff (25 minutes)
 ```
+**Ubergraph: integrating OBO ontologies into a unified semantic graph**
+
+```txt
+10:55 – 11:20 am  Alexander Bartnik (25 minutes)
+```
+**Development of an Image Data Set Class: Its Role in Biomedical Imaging and Neuroimaging Research**
+
+
+```txt
+11:20 – 11:45 pm Pratik Devkota (25 minutes)
+```
+**Knowledge of the Ancestors: Intelligent Ontology-aware Annotation of Biological Literature using Semantic Similarity**
+
+```txt
+11:45 – 12:10 pm Zach Landis-Lewis (25 minutes)
+```
+**Performance Summary Display Ontology: Feedback intervention content, delivery, and interpreted information**
+
+```txt
+12:10 – 12:30 pm Anna Maria Masci (20 minutes)
+```
+**Environmental Health Language Collaborative (EHLC): a route to environmental health science data harmonization**
+
+
 12:30 – 1:30 pm Lunch at Michigan League   
 
 
 #### Afternoon Session
 ```txt
-1:30 – 2:00 pm JBMS Journal Track Talk 3 
-Identification of missing hierarchical relations in the vaccine ontology using acquired term pairs 
-Warren Manuel (30 minutes)
-
-2:00 – 2:20 pm 
-OMOP-2-OPMI: Ontologization of OMOP CDM using OPMI to support clinical data interoperability and analysis 
-Long Tran (20 minutes)
-
-2:20 – 2:40 pm 
-An Ontological Representation of Money with a View Toward Economic Determinants of Health. 
-Matthew Diller (20 minutes)
+1:30 – 2:00 pm JBMS Journal Track Talk 3 - Warren Manuel (30 minutes)
 ```
+**Identification of missing hierarchical relations in the vaccine ontology using acquired term pairs**
+
+```txt
+2:00 – 2:20 pm Long Tran (20 minutes)
+```
+**OMOP-2-OPMI: Ontologization of OMOP CDM using OPMI to support clinical data interoperability and analysis**
+
+```txt
+2:20 – 2:40 pm Matthew Diller (20 minutes)
+```
+**An Ontological Representation of Money with a View Toward Economic Determinants of Health**
+
+
 2:40 – 2:50 pm Coffee Break
+
+
 ```txt
 2:50 – 4:50 pm OBO Foundry Town Hall (Governance and Operations Committees)
 
