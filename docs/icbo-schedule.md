@@ -147,15 +147,17 @@ will be held virtually on September 21, 2022. See website for details.
 ```txt
 6:30 – 9:00 pm Grill Party & Dinner at Island Park Shelter B       
 Address: Island Park, 1420 Island Drive, Ann Arbor MI 48105   
-Note: This is ~ 1 mile walking distance from Michigan League (meeting venue)    
-Island Park map: https://www.a2gov.org/departments/Parks-Recreation/park-rental/Documents/island%20park%20rec1%202022.pdf   
-```
+Note: This is ~ 1 mile walking distance from Michigan League (meeting venue) 
+```   
+**Island Park [map](https://www.a2gov.org/departments/Parks-Recreation/park-rental/Documents/island%20park%20rec1%202022.pdf)**
+
 
 ### Wednesday, September 28, 2022
 #### Morning Session
 ```txt
 8:00 – 9:00 am Breakfast at Michigan League
 ```
+
 ```txt
 9:00 – 9:15 am Xiaolin Yang (15 minutes)
 ```
@@ -168,31 +170,32 @@ Susan Gregurick
 _The Importance of Ontologies to Connect Data, Enhance Software, and Create a Data and Digital Health Ecosystem_   
 
 10:15 – 10:30 am Coffee Break
+
 ```txt
 10:30 – 10:55 am James Balhoff (25 minutes)
 ```
-**Ubergraph: integrating OBO ontologies into a unified semantic graph**
+**[Ubergraph: integrating OBO ontologies into a unified semantic graph](papers/ICBO-2022_paper_5005)**
 
 ```txt
 10:55 – 11:20 am  Alexander Bartnik (25 minutes)
 ```
-**Development of an Image Data Set Class: Its Role in Biomedical Imaging and Neuroimaging Research**
+**[Development of an Image Data Set Class: Its Role in Biomedical Imaging and Neuroimaging Research](papers/ICBO-2022_paper_2848)**
 
 
 ```txt
 11:20 – 11:45 pm Pratik Devkota (25 minutes)
 ```
-**Knowledge of the Ancestors: Intelligent Ontology-aware Annotation of Biological Literature using Semantic Similarity**
+**[Knowledge of the Ancestors: Intelligent Ontology-aware Annotation of Biological Literature using Semantic Similarity](papers/ICBO-2022_paper_7217)**
 
 ```txt
 11:45 – 12:10 pm Zach Landis-Lewis (25 minutes)
 ```
-**Performance Summary Display Ontology: Feedback intervention content, delivery, and interpreted information**
+**[Performance Summary Display Ontology: Feedback intervention content, delivery, and interpreted information](papers/ICBO-2022_paper_2172)**
 
 ```txt
 12:10 – 12:30 pm Anna Maria Masci (20 minutes)
 ```
-**Environmental Health Language Collaborative (EHLC): a route to environmental health science data harmonization**
+**[Environmental Health Language Collaborative (EHLC): a route to environmental health science data harmonization](papers/ICBO-2022_paper_6982)**
 
 
 12:30 – 1:30 pm Lunch at Michigan League   
@@ -207,12 +210,12 @@ _The Importance of Ontologies to Connect Data, Enhance Software, and Create a Da
 ```txt
 2:00 – 2:20 pm Long Tran (20 minutes)
 ```
-**OMOP-2-OPMI: Ontologization of OMOP CDM using OPMI to support clinical data interoperability and analysis**
+**[OMOP-2-OPMI: Ontologization of OMOP CDM using OPMI to support clinical data interoperability and analysi](papers/ICBO-2022_paper_1549)s**
 
 ```txt
 2:20 – 2:40 pm Matthew Diller (20 minutes)
 ```
-**An Ontological Representation of Money with a View Toward Economic Determinants of Health**
+**[An Ontological Representation of Money with a View Toward Economic Determinants of Health](papers/ICBO-2022_paper_8682)**
 
 
 2:40 – 2:50 pm Coffee Break
