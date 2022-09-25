@@ -81,27 +81,27 @@ will be held virtually on September 21, 2022. See website for details.
 ```txt
 10:30 – 10:55 am  C. Maria Keet (25 minutes)
 ```
-**Exploring the Ontology of Pandemic**
+**[Exploring the Ontology of Pandemic](papers/ICBO-2022_paper_9687)**
 
 ```txt
 10:55 – 11:20 am John Beverley (25 minutes)
 ```
-**Coordinating Coronavirus Research: The Virus Infectious Disease Ontology**
+**[Coordinating Coronavirus Research: The Virus Infectious Disease Ontology](papers/ICBO-2022_paper_3877)**
 
 ```txt
 11:20 – 11:45 pm Sabrina Toro (25 minutes)
 ```
-**Classifying Animal Breeds with the Vertebrate Breed Ontology**
+**[Classifying Animal Breeds with the Vertebrate Breed Ontology](papers/ICBO-2022_paper_1882)**
 
 ```txt
 11:45 – 12:10 pm Fumiaki Toyoshima (25 minutes)
 ```
-**An Ontological Approach to Developing a Unified and Interdisciplinary Framework for Aging**
+**[An Ontological Approach to Developing a Unified and Interdisciplinary Framework for Aging](papers/ICBO-2022_paper_2504)**
 
 ```txt
 12:10 – 12:30 pm Anuwat Pengput (20 minutes)
 ```
-**Ontology representation for Cholangiocarcinoma**
+**[Ontology representation for Cholangiocarcinoma](papers/ICBO-2022_paper_9692)**
 
 
 12:30 – 1:30 pm Lunch at Michigan League  
@@ -111,17 +111,17 @@ will be held virtually on September 21, 2022. See website for details.
 ```txt
 1:30 – 1:50 pm Melissa Resnick (20 minutes)
 ```
-**The Gaps in the Terminological Representation of the ACORN Social Determinants of Health Survey**
+**[The Gaps in the Terminological Representation of the ACORN Social Determinants of Health Survey](ICBO-2022_paper_0492)**
 
 ```txt
 1:50 – 2:10 pm William Hogan (20 minutes)
 ```
-**Using Ontologies to Enhance Data on Intimate Partner Violence**
+**[Using Ontologies to Enhance Data on Intimate Partner Violence](papers/ICBO-2022_paper_6874)**
 
 ```txt
 2:10 – 2:30 pm Paul Fabry (20 minutes)
 ```
-**An ontology for healthcare systems**
+**[An ontology for healthcare systems](papers/ICBO-2022_paper_5498)**
 
 ```txt
 2:30 – 3:00 pm Jobst Landgrebe, and Barry Smith (30 minutes)
@@ -174,7 +174,7 @@ _The Importance of Ontologies to Connect Data, Enhance Software, and Create a Da
 ```txt
 10:30 – 10:55 am James Balhoff (25 minutes)
 ```
-**[Ubergraph: integrating OBO ontologies into a unified semantic graph](papers/ICBO-2022_paper_5005)**
+**[Ubergraph: integrating OBO ontologies into a unified semantic graph](../papers/ICBO-2022_paper_5005)**
 
 ```txt
 10:55 – 11:20 am  Alexander Bartnik (25 minutes)
