@@ -272,5 +272,5 @@ _The Importance of Ontologies to Connect Data, Enhance Software, and Create a Da
   James A. Overton
 - **[The Ontology for Avida digital evolution platform (OntoAvida)](papers/ICBO-2022_paper_3396.pdf)**   
   Raul Ortega, Enrique Wulff and Miguel A. Fortuna
-- **[Investigating Ontology Use in Artificial Intelligence and Machine Learning for Biomedical Research - A Preliminary Report from A Comprehensive Literature Review](papers/Submission_easychair_5079.pdf)**  
+- **[Investigating Ontology Use in Artificial Intelligence and Machine Learning for Biomedical Research - A Preliminary Report from A Comprehensive Literature Review](papers/Investigating_Ontology_Use_in_Artificial Intelligence_and_Machine_Learning_for_Biomedical_Research.pdf)**  
   Asiyah Lin, Tianming Ning, Paulene Grier, Lalisa Mariam Lin and Andrey Ibrahim Seleznev
