@@ -206,7 +206,7 @@ _The Importance of Ontologies to Connect Data, Enhance Software, and Create a Da
 ```txt
 1:30 – 2:00 pm JBMS Journal Track Talk 3 - Warren Manuel (30 minutes)
 ```
-**Identification of missing hierarchical relations in the vaccine ontology using acquired term pairs**
+**[Identification of missing hierarchical relations in the vaccine ontology using acquired term pairs](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9375092/)**
 
 ```txt
 2:00 – 2:20 pm Long Tran (20 minutes)
