@@ -145,7 +145,8 @@ will be held virtually on September 21, 2022. See website for details.
 ```
 
 ```txt
-6:30 – 9:00 pm Grill Party & Dinner at Island Park Shelter B       
+6:30 – 9:00 pm Grill Party & Dinner at Island Park Shelter B    
+   
 Address: Island Park, 1420 Island Drive, Ann Arbor MI 48105   
 Note: This is ~ 1 mile walking distance from Michigan League (meeting venue) 
 ```   
@@ -228,3 +229,11 @@ _The Importance of Ontologies to Connect Data, Enhance Software, and Create a Da
 
 5:00 – 7:00 pm Hiking
 ```
+
+
+## Poster Abstracts
+- **[From Survey to Ontology, the challenges and opportunities of ontologizing questions and answers](papers/ICBO-2022_paper_623.pdf)**   
+  Lauren Chan, Jimmy Phuong, Anne Thessen, Stephanie Hong, Shahim Essaid and Melissa Haendel  
+- **[Development of Axiomatization for the Cholangiocarcinoma Ontology Using Common Logic Interchange Format](papers/ICBO-2022_paper_8905.pdf)  
+  Anuwat Pengput and Alexander D. Diehl
+- 
