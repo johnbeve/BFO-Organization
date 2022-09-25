@@ -236,7 +236,7 @@ _The Importance of Ontologies to Connect Data, Enhance Software, and Create a Da
   Lauren Chan, Jimmy Phuong, Anne Thessen, Stephanie Hong, Shahim Essaid and Melissa Haendel  
 - **[Development of Axiomatization for the Cholangiocarcinoma Ontology Using Common Logic Interchange Format](papers/ICBO-2022_paper_8905.pdf)**  
   Anuwat Pengput and Alexander D. Diehl
-- **[Collaborative Development of a Process Chemistry Domain Ontology, PROCO](papers/Submission_4112)**  
+- **[Collaborative Development of a Process Chemistry Domain Ontology, PROCO](papers/Submission_4112.pdf)**  
   Wes Schafer, Jan Nespor, Vincent Antonucci, Oliver He, Anna Dunn and Zachary E.X. Dance
 - **[Translating medical vocabularies via the Unified Medical Language System](papers/ICBO-2022_paper_9978.pdf)**  
   William T. Roddy, Daniel Olson, Diane Corey, Ian Braun, Terrence R. McHugh, Emily Hartley, Smith Heavner, Ramona L. Walls
