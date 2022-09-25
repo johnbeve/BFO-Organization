@@ -31,7 +31,8 @@
   Zach Landis-Lewis, Cooper Stansbury, John Rincon and Colin Gross
 - **[Environmental Health Language Collaborative (EHLC): a route to environmental health science data harmonization](papers/ICBO-2022_paper_6982.pdf)**   
   Anna Maria Masci, Stephanie Holmgren, Charles Schmitt, Rima Habre, Anne E. Thessen, Rebecca Boyles and Carmen J. Marsit
-- **[Identification of missing hierarchical relations in the vaccine ontology using acquired term pairs](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9375092/)**   
+- **[Identification of missing hierarchical relations in the vaccine ontology using acquired term pairs](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9375092/)**    
+  Warren Manuel, Rashmie Abeysinghe, Yongqun He, Cui Tao, and Licong Cui 
 - **[OMOP-2-OPMI: Ontologization of OMOP CDM using OPMI to support clinical data interoperability and analysi](papers/ICBO-2022_paper_1549.pdf)**   
   Long Tran and Yongqun He
 - **[An Ontological Representation of Money with a View Toward Economic Determinants of Health](papers/ICBO-2022_paper_8682.pdf)**   
