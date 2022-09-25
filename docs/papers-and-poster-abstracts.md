@@ -2,7 +2,7 @@
 
 ## Papers
 - **The Environmental Conditions, Treatments, and Exposures Ontology (ECTO): Connecting Toxicology and Exposure to Human Health and Beyond**   
-  Lauren E. Chan
+  Lauren E. Chan, Anne E. Thessen, William D. Duncan, Nicolas Matentzoglu, Charles Schmitt, Cynthia Grondin, Nicole Vasilevsky, Julie A. McMurry, Peter N. Robinson, Christopher J. Mungall, and Melissa A. Haendel
 - **A Comprehensive Update on CIDO: The Community-based Coronavirus Infectious Disease Ontology**   
   Yongqun He, Hong Yu, Anthony Huffman, Asiyah Yu Lin, Darren A. Natale, John Beverley, Ling Zheng, Yehoshua Perl, Zhigang Wang, Yingtong Liu, Edison Ong, Yang Wang, Philip Huang, Long Tran, Jinyang Du, Zalan Shah, Easheta Shah, Roshan Desai, Hsin-hui Huang, Yujia Tian, Eric Merrell, William D. Duncan, Sivaram Arabandi,Lynn M. Schriml, Jie Zheng, Anna Maria Masci, Liwei Wang, Hongfang Liu, Fatima Zohra Smaili, Robert Hoehndorf, Zoë May Pendlington, Paola Roncaglia, Xianwei Ye, Jiangan Xie, Yi-Wei Tang, Xiaolin Yang, Suyuan Peng, Luxia Zhang, Luonan Chen, Junguk Hur, Gilbert S. Omenn, Brian Athey, Barry Smith
 - **[Exploring the Ontology of Pandemic](papers/ICBO-2022_paper_9687.pdf)**   
