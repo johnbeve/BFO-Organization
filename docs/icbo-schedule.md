@@ -45,11 +45,7 @@ Parallel Sessions
 1:30 – 5:00 pm Financial and Legal Dimensions of Healthcare
 1:30 – 5:00 pm 11th Vaccine and Drug Ontology Studies (VDOS-2022)
 3:00 – 3:15 pm Coffee Break
-```
-#### Reception
-```txt
-5:00 – 6:30 pm Welcome Reception at Michigan League  
-Michigan Room, 2nd floor, across Kalamazoo
+5:00 – 6:30 pm Welcome Reception at Michigan League
 ```
 `6:30 – 7:30 pm` **Keynote**   
 Chris Stoeckert  
