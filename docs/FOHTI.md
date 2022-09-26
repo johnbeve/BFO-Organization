@@ -20,9 +20,9 @@ The FOHTI-22 workshop has two parts: the [ICBO2022 part](#icbo2022-part--tuesday
 by Co-chair [Asiyah Y. Lin](https://www.linkedin.com/in/dryulin/) (in person)
 
 #### 9:20 am – 9:30 am EDT: Semantic Harmonization 
-by Co-chair [Gary Berg-Cross](https://www.linkedin.com/in/gary-berg-cross-53a1242/) (in person)
+by Co-chair [Gary Berg-Cross](https://www.linkedin.com/in/gary-berg-cross-53a1242/) (virtual)
 
-#### 9:30 am - 10:00 am EDT: Ontologies for FAIR and FAIR Ontologies (not in EasyChair)
+#### 9:30 am - 10:00 am EDT: Ontologies for FAIR and FAIR Ontologies 
 by [Clement Jonquet](https://www.linkedin.com/in/clement-jonquet-96332a93/) and [Cassia Trojahn](https://www.linkedin.com/in/cassia-trojahn-76b46422/) (virtual)
 
 #### 10:15 am - 10:45 am EDT: Statistics and Semantics Matter: Addressing the limited semantic support for reporting statistical results.
