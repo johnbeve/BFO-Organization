@@ -15,8 +15,10 @@
 - Stella Zhou, Unit for Laboratory Animal Medicine (ULAM), University of Michigan Medical School.
 - Kadi Brinson, ULAM, University of Michigan Medical School.
 - Valerie Hill, ULAM, University of Michigan Medical School. 
+- Aaron Bookvich, Department of Biomedical Medicine and Bioinformatics, University of Michigan Medical School.
 
 # Volunteer Support:  
 - Anthony Huffman, Department of Computational Medicine and Bioinformatics, University of Michigan Medical School 
+- Yuying Tian, HITS AcadIT Software Development, University of Michigan Medical School
 - Sam Smith, Detroit, MI, USA. 
 
