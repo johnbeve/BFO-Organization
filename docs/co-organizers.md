@@ -20,5 +20,5 @@
 # Volunteer Support:  
 - Anthony Huffman, Department of Computational Medicine and Bioinformatics, University of Michigan Medical School 
 - Yuying Tian, HITS AcadIT Software Development, University of Michigan Medical School
+- Fatima Oudeif, College of Literature, Science & Arts, University of Michigan 
 - Sam Smith, Detroit, MI, USA. 
-
