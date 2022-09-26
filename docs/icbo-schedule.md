@@ -68,7 +68,7 @@ will be held virtually on September 21, 2022. See website for details.
 ```txt
 9:15 – 9:45 am JBMS Journal Track Talk 1 - Lauren E. Chan (30 minutes)
 ```
-**The Environmental Conditions, Treatments, and Exposures Ontology (ECTO): Connecting Toxicology and Exposure to Human Health and Beyond**
+**[The Environmental Conditions, Treatments, and Exposures Ontology (ECTO): Connecting Toxicology and Exposure to Human Health and Beyond](papers/ECTO_manuscript_ICBO.pdf)**
 
 ```txt
 9:45 – 10:15 am JBMS Journal Track Talk 2 - Yongqun "Oliver" He (30 minutes)
