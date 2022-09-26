@@ -5,7 +5,8 @@
 
 The Ontology of Medically Related Social Entities (OMRSE) is being developed to provide a framework for modeling demographic data that is compatible with BFO and with Open Biomedical Ontologies (OBO) Foundry best practices. Recent developments include representations of organizations, roles, facilities, demographic data, enrollment in insurance plans, and data about socio-economic indicators. At the same time, a number of ontology groups have been working on BFO-conformant ontologies in the financial and legal realms, covering phenomena such as insurance or liability at a more general level. The goal of this workshop is to provide a forum in which the contributions of ontologies in these domains can be critically reviewed, and potential opportunities for collaboration identified.
 
-*Time*: 1:30 pm – 4:45 pm, Monday, September 26, 2022
+*Time*: 1:30 pm – 4:45 pm, Monday, September 26, 2022   
+*Presentations*: **[Google Drive](https://drive.google.com/drive/folders/1MTsP-hWXuFVJFR_Hch7KTUk43AgLln1J)**
 
 #### Agenda
 ```txt
