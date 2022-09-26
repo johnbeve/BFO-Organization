@@ -4,7 +4,7 @@
 - Asiyah Yu Lin, National Institutes of Health
 - Sivaram Arabandi, Ontopro
 - William Duncan, University of Florida
-- Hande Küçük McGinty, Ohio University
+- Hande Küçük McGinty, Kansas State University
 
 # Sponsor organizations:  
 - Unit for Laboratory Animal Medicine, University of Michigan Medical School, Ann Arbor, MI, USA.
@@ -20,5 +20,5 @@
 # Volunteer Support:  
 - Anthony Huffman, Department of Computational Medicine and Bioinformatics, University of Michigan Medical School 
 - Yuying Tian, HITS AcadIT Software Development, University of Michigan Medical School
+- Fatima Oudeif, College of Literature, Science & Arts, University of Michigan 
 - Sam Smith, Detroit, MI, USA. 
-
