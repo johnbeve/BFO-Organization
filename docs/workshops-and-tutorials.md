@@ -36,7 +36,7 @@ Please visit the CELLS [website](https://sites.google.com/view/cells-2022-worksh
 
 ## FAIR ontology harmonization and TRUST data interoperability (FOHTI)
 *Date and time*: Monday, September 26, 2022 (9am-12:30pm ET)<br>
-*Organizers*: Asiyah Yu Lin, Nomi Harris, and Gary Berg-Cross<br>
+*Organizers*: Asiyah Yu Lin, Gary Berg-Cross, Nomi Harris<br>
 *Contact*: asiyah.lin@nih.gov;gbergcross@gmail.com<br>
 *Website*: [FOHTI-22](https://github.com/ICBO-conference/icbo2022/blob/main/docs/FOHTI.md)
 
@@ -78,7 +78,7 @@ The Open Biological and Biomedical Ontologies (OBO) community includes hundreds 
 A food processing discussion group within the Joint Food Ontology Workgroup has proposed a general OBO Foundry compatible food processing ontology and more specific recipe model which is currently focused on the combination of ingredients, devices, and recipe steps. The recipe model needs to be tested out on real-world recipe databases, to develop the kinds of RDF data structures and queries that are of practical use within food science, but which also have direct application in interoperability with other ontology-driven models of nutrient estimation, food related individual and population health, environmental impact of ingredients, and food supply chain traceability. This workshop aims to create RDF views of other recipe database content from the perspective of OBO Foundry ontologies, including FoodOn, ChEBI, and units of measure ontologies. Hacking can take on a number of challenges including Named Entity Recognition of recipe ingredients in free text recipes, to the representation of multi-component foods such as contained in food composition databases (e.g. world.openfoodfacts.org), to the transformation of semi-normalized recipe databases into pure food process ontology form. Additional work on expanding the recipe ontology representation beyond its “lab bench” purview into more nuanced cultural and historical representation of food knowledge is welcome too!
 
 ## LinkML Workshop/Tutorial
-*Date and time*: Sunday, September 25, 2022 (9am-12pm ET)
+*Date and time*: Sunday, September 25, 2022 (9am-12pm ET)<br>
 *Organizers*: Christopher Mungall, Sierra Moxon, Mark Miller, Nomi Harris and Tim Putnam
 *Website*: [Google Doc](https://docs.google.com/document/d/1JWh7ddLQ74dBTY2QQFHBfW9XkJo9WDq6O33vI-wbQvc/edit#heading=h.um3x5zjmy6jk)
 
