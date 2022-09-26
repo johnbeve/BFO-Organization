@@ -4,7 +4,7 @@
 - Asiyah Yu Lin, National Institutes of Health
 - Sivaram Arabandi, Ontopro
 - William Duncan, University of Florida
-- Hande Küçük McGinty, Ohio University
+- Hande Küçük McGinty, Kansas State University
 
 # Sponsor organizations:  
 - Unit for Laboratory Animal Medicine, University of Michigan Medical School, Ann Arbor, MI, USA.
