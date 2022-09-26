@@ -10,11 +10,11 @@ The Ontology of Medically Related Social Entities (OMRSE) is being developed to 
 
 #### Agenda
 ```txt
-1:30 pm Mathias Brochhausen, University of Arkansas for Medical Sciences	
+1:30 pm Mathias Brochhausen, University of Arkansas for Medical Sciences	 
 Legal entities and Trauma care - the TIPTOE Perspective
 
-2:15 pm Matt Diller, University of Florida	Representing 
-Ownership and Access to Material Needs in OWL 2
+2:15 pm Matt Diller, University of Florida	 
+Representing Ownership and Access to Material Needs in OWL 2
 
 3:00 pm BREAK	
 
