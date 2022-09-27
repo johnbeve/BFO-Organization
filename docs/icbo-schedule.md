@@ -267,9 +267,6 @@ _The Importance of Ontologies to Connect Data, Enhance Software, and Create a Da
 - **[Building an Application Ontology and Knowledge Graph for Rare Disease Patient-Level Data](papers/ICBO-2022_paper_3882.pdf)**   
   **[Flash Talk](flash-talks/Knowledge_Graph_for_Rare_Disease.pdf)**  
   Emily Hartley, Daniel Olson, Ian Braun, Nicolas Matentzoglu, James Overton and Ramona Walls
-- **[A data structure for the implementation of referent tracking systems](papers/ICBO-2022_paper_5047.pdf)**  
-  **[Poster](flash-talks/ICBO22_lmwishnie.pdf)**  
-  Lauren Wishnie and Alexander D. Diehl
 - **[The Protein Conformation Ontology](papers/ICBO-2022_paper_5613.pdf)**  
   **[Flash Talk](flash-talks/Protein_Conformation_Ontology.pdf)**  
   Morgan Mitchell, Lauren Wishnie and Alexander D. Diehl
@@ -300,3 +297,6 @@ _The Importance of Ontologies to Connect Data, Enhance Software, and Create a Da
 - **[Investigating Ontology Use in Artificial Intelligence and Machine Learning for Biomedical Research - A Preliminary Report from A Comprehensive Literature Review](papers/Investigating_Ontology_Use_in_Artificial Intelligence_and_Machine_Learning_for_Biomedical_Research.pdf)**  
   **[Flash Talk](flash-talks/Ontology_Use_in_AI_and_ML.pdf)**   
   Asiyah Lin, Tianming Ning, Paulene Grier, Lalisa Mariam Lin and Andrey Ibrahim Seleznev
+- **[A data structure for the implementation of referent tracking systems](papers/ICBO-2022_paper_5047.pdf)**  
+  **[Poster](flash-talks/ICBO22_lmwishnie.pdf)**  
+  Lauren Wishnie and Alexander D. Diehl
