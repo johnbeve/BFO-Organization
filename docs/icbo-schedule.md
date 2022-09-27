@@ -67,8 +67,10 @@ will be held virtually on September 21, 2022. See website for details.
 8:00 – 9:00 am Breakfast at Michigan League
 ```
 ```txt
-9:00 – 9:15 am Welcome/Introduction
+9:00 – 9:15 am Oliver He
 ```
+**[Welcome to ICBO 2022!](papers/ICBO_2022_opening.pdf)**
+
 ```txt
 9:15 – 9:45 am JBMS Journal Track Talk 1 - Lauren E. Chan (30 minutes)
 ```
