@@ -296,7 +296,7 @@ _The Importance of Ontologies to Connect Data, Enhance Software, and Create a Da
   **[Flash Talk](flash-talks/Ontology_Use_in_AI_and_ML.pdf)**   
   Asiyah Lin, Tianming Ning, Paulene Grier, Lalisa Mariam Lin and Andrey Ibrahim Seleznev
 - **[A data structure for the implementation of referent tracking systems](papers/ICBO-2022_paper_5047.pdf)**  
-  **[Poster](flash-talks/ICBO22_lmwishnie.pdf)**  
+  **[Flash Talk](flash-talks/ICBO22_lmwishnie.pdf)**  
   Lauren Wishnie and Alexander D. Diehl
 - **[Translating medical vocabularies via the Unified Medical Language System](papers/ICBO-2022_paper_9978.pdf)**  
   William T. Roddy, Daniel Olson, Diane Corey, Ian Braun, Terrence R. McHugh, Emily Hartley, Smith Heavner, Ramona L. Walls
