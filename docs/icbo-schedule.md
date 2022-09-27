@@ -250,6 +250,7 @@ _The Importance of Ontologies to Connect Data, Enhance Software, and Create a Da
 - **[Translating medical vocabularies via the Unified Medical Language System](papers/ICBO-2022_paper_9978.pdf)**  
   William T. Roddy, Daniel Olson, Diane Corey, Ian Braun, Terrence R. McHugh, Emily Hartley, Smith Heavner, Ramona L. Walls
 - **[NIDM-Experiment: An Ontology for Annotating Neuroscientific Data](papers/ICBO-2022_paper_8589.pdf)**  
+  **[Flash Talk](flash-talks/Helmer_NIDM-E_ICBO_2022.pdf)**  
   Karl Helmer, Derek Chaplin, Nazek Queder, Satrajit Ghosh, Camille Maumet, Jean-Baptiste Poline, Theo van Erp and David Keator
 - **[Shaping the semantics of healthy and sustainable food systems: a participatory meta-framework- based approach](papers/ICBO-2022_paper_3300.pdf)**  
   **[Flash Talk](flash-talks/semantics_of_healthy_and_sustainable_food_systems.pdf)**  
