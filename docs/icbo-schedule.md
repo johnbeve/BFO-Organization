@@ -283,6 +283,7 @@ _The Importance of Ontologies to Connect Data, Enhance Software, and Create a Da
   **[Flash Talk](flash-talks/OBO_Academy_Flash_Talk_ICBO_2022.pdf)**  
   James A. Overton, Rebecca Jackson, Sabrina Toro, Shawn Tan, Bradley Varner, David Osumi-Sutherland, Nicolas Matentzoglu and Nicole Vasilevsky
 - **[The Ontology of Adverse Events in 2022](papers/ICBO-2022_paper_6701.pdf)**  
+  **[Flash Talk](flash-talks/OAE_2-min_flashtalk.pdf)**  
   Qiuyue Yang, Jun Su, Xue Zhang, Yongqun He and Jiangan Xie
 - **[Toward an Occupation Ontology, OccO](papers/ICBO-2022_paper_5061.pdf)**  
   **[Flash Talk](flash-talks/Occupation_Ontology.pdf)**  
