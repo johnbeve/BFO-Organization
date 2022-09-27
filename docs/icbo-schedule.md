@@ -247,8 +247,6 @@ _The Importance of Ontologies to Connect Data, Enhance Software, and Create a Da
 - **[Collaborative Development of a Process Chemistry Domain Ontology, PROCO](papers/Submission_easychair_4112.pdf)**  
   **[Flash Talk](flash-talks/Process_Chemistry_Domain_Ontology.pdf)**  
   Wes Schafer, Jan Nespor, Vincent Antonucci, Oliver He, Anna Dunn and Zachary E.X. Dance
-- **[Translating medical vocabularies via the Unified Medical Language System](papers/ICBO-2022_paper_9978.pdf)**  
-  William T. Roddy, Daniel Olson, Diane Corey, Ian Braun, Terrence R. McHugh, Emily Hartley, Smith Heavner, Ramona L. Walls
 - **[NIDM-Experiment: An Ontology for Annotating Neuroscientific Data](papers/ICBO-2022_paper_8589.pdf)**  
   **[Flash Talk](flash-talks/Helmer_NIDM-E_ICBO_2022.pdf)**  
   Karl Helmer, Derek Chaplin, Nazek Queder, Satrajit Ghosh, Camille Maumet, Jean-Baptiste Poline, Theo van Erp and David Keator
@@ -300,3 +298,5 @@ _The Importance of Ontologies to Connect Data, Enhance Software, and Create a Da
 - **[A data structure for the implementation of referent tracking systems](papers/ICBO-2022_paper_5047.pdf)**  
   **[Poster](flash-talks/ICBO22_lmwishnie.pdf)**  
   Lauren Wishnie and Alexander D. Diehl
+- **[Translating medical vocabularies via the Unified Medical Language System](papers/ICBO-2022_paper_9978.pdf)**  
+  William T. Roddy, Daniel Olson, Diane Corey, Ian Braun, Terrence R. McHugh, Emily Hartley, Smith Heavner, Ramona L. Walls
