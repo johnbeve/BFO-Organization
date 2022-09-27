@@ -267,7 +267,6 @@ _The Importance of Ontologies to Connect Data, Enhance Software, and Create a Da
   **[Flash Talk](flash-talks/Knowledge_Graph_for_Rare_Disease.pdf)**  
   Emily Hartley, Daniel Olson, Ian Braun, Nicolas Matentzoglu, James Overton and Ramona Walls
 - **[A data structure for the implementation of referent tracking systems](papers/ICBO-2022_paper_5047.pdf)**  
-  **[Flash Talk](flash-talks/)**  
   Lauren Wishnie and Alexander D. Diehl
 - **[The Protein Conformation Ontology](papers/ICBO-2022_paper_5613.pdf)**  
   Morgan Mitchell, Lauren Wishnie and Alexander D. Diehl
@@ -295,5 +294,4 @@ _The Importance of Ontologies to Connect Data, Enhance Software, and Create a Da
   **[Flash Talk](flash-talks/OntoAvida.pdf)**  
   Raul Ortega, Enrique Wulff and Miguel A. Fortuna
 - **[Investigating Ontology Use in Artificial Intelligence and Machine Learning for Biomedical Research - A Preliminary Report from A Comprehensive Literature Review](papers/Investigating_Ontology_Use_in_Artificial Intelligence_and_Machine_Learning_for_Biomedical_Research.pdf)**  
-  **[Flash Talk](flash-talks/)**  
   Asiyah Lin, Tianming Ning, Paulene Grier, Lalisa Mariam Lin and Andrey Ibrahim Seleznev
