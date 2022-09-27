@@ -269,6 +269,7 @@ _The Importance of Ontologies to Connect Data, Enhance Software, and Create a Da
 - **[A data structure for the implementation of referent tracking systems](papers/ICBO-2022_paper_5047.pdf)**  
   Lauren Wishnie and Alexander D. Diehl
 - **[The Protein Conformation Ontology](papers/ICBO-2022_paper_5613.pdf)**  
+  **[Flash Talk](flash-talks/Protein_Conformation_Ontology.pdf)**  
   Morgan Mitchell, Lauren Wishnie and Alexander D. Diehl
 - **[Ontological representation and analysis of the molecular interactions related to COVID-19-associated Acute Kidney Injury](papers/ICBO-2022_paper_3333.pdf)**  
   **[Flash Talk](flash-talks/COVID-19-associated_Acute_Kidney_Injury.pdf)**  
