@@ -296,4 +296,5 @@ _The Importance of Ontologies to Connect Data, Enhance Software, and Create a Da
   **[Flash Talk](flash-talks/OntoAvida.pdf)**  
   Raul Ortega, Enrique Wulff and Miguel A. Fortuna
 - **[Investigating Ontology Use in Artificial Intelligence and Machine Learning for Biomedical Research - A Preliminary Report from A Comprehensive Literature Review](papers/Investigating_Ontology_Use_in_Artificial Intelligence_and_Machine_Learning_for_Biomedical_Research.pdf)**  
+  **[Flash Talk](flash-talks/Ontology_Use_in_AI_and_ML.pdf)**   
   Asiyah Lin, Tianming Ning, Paulene Grier, Lalisa Mariam Lin and Andrey Ibrahim Seleznev
