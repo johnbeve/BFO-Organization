@@ -239,44 +239,61 @@ _The Importance of Ontologies to Connect Data, Enhance Software, and Create a Da
 
 ## Poster Abstracts
 - **[From Survey to Ontology, the challenges and opportunities of ontologizing questions and answers](papers/ICBO-2022_paper_623.pdf)**   
+  **[Flash Talk](flash-talks/From_Survey_to_Ontology.pdf)**  
   Lauren Chan, Jimmy Phuong, Anne Thessen, Stephanie Hong, Shahim Essaid and Melissa Haendel  
 - **[Development of Axiomatization for the Cholangiocarcinoma Ontology Using Common Logic Interchange Format](papers/ICBO-2022_paper_8905.pdf)**  
+  **[Flash Talk](flash-talks/CHOLANGIOCARCINOMA_ONTOLOGY.pdf)**  
   Anuwat Pengput and Alexander D. Diehl
 - **[Collaborative Development of a Process Chemistry Domain Ontology, PROCO](papers/Submission_easychair_4112.pdf)**  
+  **[Flash Talk](flash-talks/Process_Chemistry_Domain_Ontology.pdf)**  
   Wes Schafer, Jan Nespor, Vincent Antonucci, Oliver He, Anna Dunn and Zachary E.X. Dance
 - **[Translating medical vocabularies via the Unified Medical Language System](papers/ICBO-2022_paper_9978.pdf)**  
   William T. Roddy, Daniel Olson, Diane Corey, Ian Braun, Terrence R. McHugh, Emily Hartley, Smith Heavner, Ramona L. Walls
 - **[NIDM-Experiment: An Ontology for Annotating Neuroscientific Data](papers/ICBO-2022_paper_8589.pdf)**  
   Karl Helmer, Derek Chaplin, Nazek Queder, Satrajit Ghosh, Camille Maumet, Jean-Baptiste Poline, Theo van Erp and David Keator
 - **[Shaping the semantics of healthy and sustainable food systems: a participatory meta-framework- based approach](papers/ICBO-2022_paper_3300.pdf)**  
+  **[Flash Talk](flash-talks/semantics_of_healthy_and_sustainable_food_systems.pdf)**  
   Giorgio Alberto Ubbiali, Andrea Borghini, Nicola Piras and Matthew C. Lange
 - **[Ontological analysis of collection improves classification of cardinality phenotypes](papers/ICBO-2022_paper_8411.pdf)**  
+  **[Flash Talk](flash-talks/Cardinality_phenotypes_ICBO.pdf)**  
   Sarah Alghamdi and Robert Hoehndorf
 - **[Enhancing childhood nutrition data with open biomedical ontologies](papers/ICBO-2022_paper_3407.pdf)**  
+  **[Flash Talk](flash-talks/Enhancing_childhood_nutrition_data.pdf)**  
   Jonathan Bona, Aaron Kemp, Alexander D. Diehl, Alexander P. Cox and Linda Larson-Prior
 - **[Building a Radiation Therapy Ontology](papers/ICBO-2022_paper_4077.pdf)**   
+  **[Flash Talk](flash-talks/Radiation_Therapy_Ontology.pdf)**  
   Mark Phillips, Andre Dekker, Charles Mayo, Peter Gabriel and Jonathan Bona
 - **[Building an Application Ontology and Knowledge Graph for Rare Disease Patient-Level Data](papers/ICBO-2022_paper_3882.pdf)**   
+  **[Flash Talk](flash-talks/Knowledge_Graph_for_Rare_Disease.pdf)**  
   Emily Hartley, Daniel Olson, Ian Braun, Nicolas Matentzoglu, James Overton and Ramona Walls
 - **[A data structure for the implementation of referent tracking systems](papers/ICBO-2022_paper_5047.pdf)**  
+  **[Flash Talk](flash-talks/)**  
   Lauren Wishnie and Alexander D. Diehl
 - **[The Protein Conformation Ontology](papers/ICBO-2022_paper_5613.pdf)**  
   Morgan Mitchell, Lauren Wishnie and Alexander D. Diehl
 - **[Ontological representation and analysis of the molecular interactions related to COVID-19-associated Acute Kidney Injury](papers/ICBO-2022_paper_3333.pdf)**  
+  **[Flash Talk](flash-talks/COVID-19-associated_Acute_Kidney_Injury.pdf)**  
   Ghida Arnous and Yongqun He
 - **[Knowledge Systematization for Cellular Senescence Processes by Homeostasis Imbalance Process Ontology](papers/ICBO-2022_paper_2131.pdf)**  
+  **[Flash Talk](flash-talks/Cellular_senescence.pdf)**  
   Yuki Yamagata, Shuichi Onami and Hiroshi Masuya
 - **[OBO Academy: Training materials for bioontologists](papers/ICBO-2022_paper_9719.pdf)**  
+  **[Flash Talk](flash-talks/OBO_Academy_Flash_Talk_ICBO_2022.pdf)**  
   James A. Overton, Rebecca Jackson, Sabrina Toro, Shawn Tan, Bradley Varner, David Osumi-Sutherland, Nicolas Matentzoglu and Nicole Vasilevsky
 - **[The Ontology of Adverse Events in 2022](papers/ICBO-2022_paper_6701.pdf)**  
   Qiuyue Yang, Jun Su, Xue Zhang, Yongqun He and Jiangan Xie
 - **[Toward an Occupation Ontology, OccO](papers/ICBO-2022_paper_5061.pdf)**  
+  **[Flash Talk](flash-talks/Occupation_Ontology.pdf)**  
   Sam Smith, Yongqun He, Damion Dooley, Eric Merrell and John Beverley
 - **[Ontology Integration for Discovering Bioresources Contributing to Medical Science Research](papers/ICBO-2022_paper_1944.pdf)**  
+  **[Flash Talk](flash-talks/RIKEN_BioResource_Research_Center.pdf)**  
   Tatsuya Kushida, Daiki Usuda, Toyoyuki Takada, Yuki Yamagata and Hiroshi Masuya
 - **[The OntoDev Suite of Ontology and Data Integration Tools](papers/ICBO-2022_paper_2605.pdf)**  
+  **[Flash Talk](flash-talks/Overton_OntoDev.pdf)**  
   James A. Overton
 - **[The Ontology for Avida digital evolution platform (OntoAvida)](papers/ICBO-2022_paper_3396.pdf)**   
+  **[Flash Talk](flash-talks/OntoAvida.pdf)**  
   Raul Ortega, Enrique Wulff and Miguel A. Fortuna
 - **[Investigating Ontology Use in Artificial Intelligence and Machine Learning for Biomedical Research - A Preliminary Report from A Comprehensive Literature Review](papers/Investigating_Ontology_Use_in_Artificial Intelligence_and_Machine_Learning_for_Biomedical_Research.pdf)**  
+  **[Flash Talk](flash-talks/)**  
   Asiyah Lin, Tianming Ning, Paulene Grier, Lalisa Mariam Lin and Andrey Ibrahim Seleznev
