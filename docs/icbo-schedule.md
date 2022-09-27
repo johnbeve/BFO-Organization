@@ -77,7 +77,7 @@ will be held virtually on September 21, 2022. See website for details.
 ```txt
 9:45 – 10:15 am JBMS Journal Track Talk 2 - Yongqun "Oliver" He (30 minutes)
 ```
-**A Comprehensive Update on CIDO: The Community-based Coronavirus Infectious Disease Ontology**
+**[A Comprehensive Update on CIDO: The Community-based Coronavirus Infectious Disease Ontology](papers/CIDO_JBMS_manuscript.pdf)**
 
 
 10:15 – 10:30 am Coffee Break
