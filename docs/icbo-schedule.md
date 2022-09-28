@@ -233,8 +233,11 @@ _The Importance of Ontologies to Connect Data, Enhance Software, and Create a Da
 ```
 **[OBO Community Townhall Agenda](https://docs.google.com/document/d/1bNc23I3dYzSSr1jZr4smxw6a9Z-Fp0zh4d8IJOTqKmw/edit#heading=h.q43s2kdc02c0)**
 
+```txt
 4:50 – 5:00 pm Closing Remarks
+```
 
+```txt
 5:00 – 7:00 pm Hiking
 ```
 
