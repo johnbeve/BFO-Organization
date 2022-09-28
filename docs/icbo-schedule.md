@@ -69,12 +69,12 @@ will be held virtually on September 21, 2022. See website for details.
 ```txt
 9:00 – 9:15 am Oliver He
 ```
-**[Welcome to ICBO 2022!](papers/ICBO_2022_opening.pdf)**
+**[Welcome to ICBO 2022!](papers/ICBO_2022_opening.pdf)** ([slides](slides/He_ICBO_2022_openning.pdf))  
 
 ```txt
 9:15 – 9:45 am JBMS Journal Track Talk 1 - Lauren E. Chan (30 minutes)
 ```
-**[The Environmental Conditions, Treatments, and Exposures Ontology (ECTO): Connecting Toxicology and Exposure to Human Health and Beyond](papers/ECTO_manuscript_ICBO.pdf)**
+**[The Environmental Conditions, Treatments, and Exposures Ontology (ECTO): Connecting Toxicology and Exposure to Human Health and Beyond](papers/ECTO_manuscript_ICBO.pdf)** ([slides](slides/Chan_ECTO_presentation.pdf))  
 
 ```txt
 9:45 – 10:15 am JBMS Journal Track Talk 2 - Yongqun "Oliver" He (30 minutes)
@@ -92,22 +92,22 @@ will be held virtually on September 21, 2022. See website for details.
 ```txt
 10:55 – 11:20 am John Beverley (25 minutes)
 ```
-**[Coordinating Coronavirus Research: The Virus Infectious Disease Ontology](papers/ICBO-2022_paper_3877.pdf)**
+**[Coordinating Coronavirus Research: The Virus Infectious Disease Ontology](papers/ICBO-2022_paper_3877.pdf)** ([slides](slides/Berverley_ICBO_2022_Coordinating_Coronavirus_Ontologies.pdf))  
 
 ```txt
 11:20 – 11:45 pm Sabrina Toro (25 minutes)
 ```
-**[Classifying Animal Breeds with the Vertebrate Breed Ontology](papers/ICBO-2022_paper_1882.pdf)**
+**[Classifying Animal Breeds with the Vertebrate Breed Ontology](papers/ICBO-2022_paper_1882.pdf)** ([slides](slides/Toro_VBO_presentation_ICBO2022.pdf))   
 
 ```txt
 11:45 – 12:10 pm Fumiaki Toyoshima (25 minutes)
 ```
-**[An Ontological Approach to Developing a Unified and Interdisciplinary Framework for Aging](papers/ICBO-2022_paper_2504.pdf)**
+**[An Ontological Approach to Developing a Unified and Interdisciplinary Framework for Aging](papers/ICBO-2022_paper_2504.pdf)** ([slides](slides/))  
 
 ```txt
 12:10 – 12:30 pm Anuwat Pengput (20 minutes)
 ```
-**[Ontology representation for Cholangiocarcinoma](papers/ICBO-2022_paper_9692.pdf)**
+**[Ontology representation for Cholangiocarcinoma](papers/ICBO-2022_paper_9692.pdf)** ([slides](slides/Anuwat-ICBO2022-Cholangiocarcinoma.pdf))  
 
 
 12:30 – 1:30 pm Lunch at Michigan League  
