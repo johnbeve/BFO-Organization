@@ -212,17 +212,17 @@ _The Importance of Ontologies to Connect Data, Enhance Software, and Create a Da
 ```txt
 1:30 – 2:00 pm JBMS Journal Track Talk 3 - Warren Manuel (30 minutes)
 ```
-**[Identification of missing hierarchical relations in the vaccine ontology using acquired term pairs](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9375092/)**
+**[Identification of missing hierarchical relations in the vaccine ontology using acquired term pairs](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9375092/)** ([slides](slides/Manuel_ICBO2022_VO_Missing_Relations.pdf))  
 
 ```txt
 2:00 – 2:20 pm Long Tran (20 minutes)
 ```
-**[OMOP-2-OPMI: Ontologization of OMOP CDM using OPMI to support clinical data interoperability and analysi](papers/ICBO-2022_paper_1549.pdf)**
+**[OMOP-2-OPMI: Ontologization of OMOP CDM using OPMI to support clinical data interoperability and analysi](papers/ICBO-2022_paper_1549.pdf)** ([slides](slides/Long_ICBO2022_OMOP-2-OPMI.pdf))  
 
 ```txt
 2:20 – 2:40 pm Matthew Diller (20 minutes)
 ```
-**[An Ontological Representation of Money with a View Toward Economic Determinants of Health](papers/ICBO-2022_paper_8682.pdf)**
+**[An Ontological Representation of Money with a View Toward Economic Determinants of Health](papers/ICBO-2022_paper_8682.pdf)** ([slides](slides/Diller_ICBO2022_Money.pdf))  
 
 
 2:40 – 2:50 pm Coffee Break
