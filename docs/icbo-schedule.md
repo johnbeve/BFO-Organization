@@ -87,7 +87,7 @@ will be held virtually on September 21, 2022. See website for details.
 ```txt
 10:30 – 10:55 am  C. Maria Keet (25 minutes)
 ```
-**[Exploring the Ontology of Pandemic](papers/ICBO-2022_paper_9687.pdf)**
+**[Exploring the Ontology of Pandemic](papers/ICBO-2022_paper_9687.pdf)** ([recording](https://drive.google.com/file/d/1OXpYgVBOg9ZpSkwePvYfNl0PocPvVHNX/view?usp=sharing))  
 
 ```txt
 10:55 – 11:20 am John Beverley (25 minutes)
@@ -117,7 +117,7 @@ will be held virtually on September 21, 2022. See website for details.
 ```txt
 1:30 – 1:50 pm Melissa Resnick (20 minutes)
 ```
-**[The Gaps in the Terminological Representation of the ACORN Social Determinants of Health Survey](papers/ICBO-2022_paper_0492.pdf)**
+**[The Gaps in the Terminological Representation of the ACORN Social Determinants of Health Survey](papers/ICBO-2022_paper_0492.pdf)** ([recording](https://drive.google.com/file/d/1XfvAVoUDev7LzZ22kGHavGV-Myqdsj9k/view?usp=sharing))  
 
 ```txt
 1:50 – 2:10 pm William Hogan (20 minutes)
