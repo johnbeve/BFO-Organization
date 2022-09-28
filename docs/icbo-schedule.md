@@ -231,7 +231,8 @@ _The Importance of Ontologies to Connect Data, Enhance Software, and Create a Da
 ```txt
 2:50 – 4:50 pm OBO Foundry Town Hall (Governance and Operations Committees)
 ```
-**[OBO Community Townhall Agenda](https://docs.google.com/document/d/1bNc23I3dYzSSr1jZr4smxw6a9Z-Fp0zh4d8IJOTqKmw/edit#heading=h.q43s2kdc02c0)**
+**[Slides](https://bit.ly/obo-icbo2022)**  
+**[OBO Community Townhall Agenda](https://docs.google.com/document/d/1bNc23I3dYzSSr1jZr4smxw6a9Z-Fp0zh4d8IJOTqKmw/edit#heading=h.q43s2kdc02c0)**  
 
 ```txt
 4:50 – 5:00 pm Closing Remarks
