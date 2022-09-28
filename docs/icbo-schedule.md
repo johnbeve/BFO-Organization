@@ -102,7 +102,7 @@ will be held virtually on September 21, 2022. See website for details.
 ```txt
 11:45 – 12:10 pm Fumiaki Toyoshima (25 minutes)
 ```
-**[An Ontological Approach to Developing a Unified and Interdisciplinary Framework for Aging](papers/ICBO-2022_paper_2504.pdf)** ([slides](slides/))  
+**[An Ontological Approach to Developing a Unified and Interdisciplinary Framework for Aging](papers/ICBO-2022_paper_2504.pdf)** ([slides](slides/Fumyaki_Aging_ICBO2022.pdf))  
 
 ```txt
 12:10 – 12:30 pm Anuwat Pengput (20 minutes)
