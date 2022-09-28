@@ -53,7 +53,7 @@ Michigan Room, 2nd floor, across Kalamazoo
 ```
 `6:30 – 7:30 pm` **Keynote**   
 Chris Stoeckert  
-_Striving for semantic harmony across datasets, communities, and real-world data_
+_Striving for semantic harmony across datasets, communities, and real-world data_ ([slides](slides/Stoeckert_ICBO22_keynote.pdf))
 
 
 ```txt
