@@ -174,35 +174,35 @@ Note: This is ~ 1 mile walking distance from Michigan League (meeting venue)
 
 `9:15 – 10:15 am` **Keynote**   
 Susan Gregurick   
-_The Importance of Ontologies to Connect Data, Enhance Software, and Create a Data and Digital Health Ecosystem_   
+_The Importance of Ontologies to Connect Data, Enhance Software, and Create a Data and Digital Health Ecosystem_ ([slides](slides/ICBO-2022_Gregurick.pdf))  
 
 10:15 – 10:30 am Coffee Break
 
 ```txt
 10:30 – 10:55 am James Balhoff (25 minutes)
 ```
-**[Ubergraph: integrating OBO ontologies into a unified semantic graph](papers/ICBO-2022_paper_5005.pdf)**
+**[Ubergraph: integrating OBO ontologies into a unified semantic graph](papers/ICBO-2022_paper_5005.pdf)** ([slides](slides/Balhoff-Ubergraph-ICBO2022.pdf))    
 
 ```txt
 10:55 – 11:20 am  Alexander Bartnik (25 minutes)
 ```
-**[Development of an Image Data Set Class: Its Role in Biomedical Imaging and Neuroimaging Research](papers/ICBO-2022_paper_2848.pdf)**
+**[Development of an Image Data Set Class: Its Role in Biomedical Imaging and Neuroimaging Research](papers/ICBO-2022_paper_2848.pdf)** ([slides](slides/Bartnik_ICBO2022_ImageDataSet.pdf))   
 
 
 ```txt
 11:20 – 11:45 pm Pratik Devkota (25 minutes)
 ```
-**[Knowledge of the Ancestors: Intelligent Ontology-aware Annotation of Biological Literature using Semantic Similarity](papers/ICBO-2022_paper_7217.pdf)**
+**[Knowledge of the Ancestors: Intelligent Ontology-aware Annotation of Biological Literature using Semantic Similarity](papers/ICBO-2022_paper_7217.pdf)** ([slides](slides/Devkota_ICBO_2022_Knowledge_of_the_anchestors.pptx.pdf))  
 
 ```txt
 11:45 – 12:10 pm Zach Landis-Lewis (25 minutes)
 ```
-**[Performance Summary Display Ontology: Feedback intervention content, delivery, and interpreted information](papers/ICBO-2022_paper_2172.pdf)**
+**[Performance Summary Display Ontology: Feedback intervention content, delivery, and interpreted information](papers/ICBO-2022_paper_2172.pdf)** ([slides](slides/Landis-Lewis_PSDO_ICBO_2022.pdf))  
 
 ```txt
 12:10 – 12:30 pm Anna Maria Masci (20 minutes)
 ```
-**[Environmental Health Language Collaborative (EHLC): a route to environmental health science data harmonization](papers/ICBO-2022_paper_6982.pdf)**
+**[Environmental Health Language Collaborative (EHLC): a route to environmental health science data harmonization](papers/ICBO-2022_paper_6982.pdf)** ([slides](slides/ICBO-2022_Masci_Ann_Arbor.pdf))   
 
 
 12:30 – 1:30 pm Lunch at Michigan League   
