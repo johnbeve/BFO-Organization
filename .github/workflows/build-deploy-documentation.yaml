@@ -9,6 +9,9 @@ on:
       - 'mkdocs.yml'
       - 'docs/*'
       - 'docs/images/*'
+      - 'docs/papers/*'
+      - 'docs/slides/*'
+      - 'docs/flash-talks/*'
   workflow_dispatch:
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
