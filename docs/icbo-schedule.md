@@ -122,17 +122,17 @@ will be held virtually on September 21, 2022. See website for details.
 ```txt
 1:50 – 2:10 pm William Hogan (20 minutes)
 ```
-**[Using Ontologies to Enhance Data on Intimate Partner Violence](papers/ICBO-2022_paper_6874.pdf)**
+**[Using Ontologies to Enhance Data on Intimate Partner Violence](papers/ICBO-2022_paper_6874.pdf)** ([slides](slides/Hogan_IPV_ICBO2022.pdf))  
 
 ```txt
 2:10 – 2:30 pm Paul Fabry (20 minutes)
 ```
-**[An ontology for healthcare systems](papers/ICBO-2022_paper_5498.pdf)**
+**[An ontology for healthcare systems](papers/ICBO-2022_paper_5498.pdf)** ([slides](slides/Fabry_Healthcare_Ontology_ICBO2022.pdf))  
 
 ```txt
 2:30 – 3:00 pm Jobst Landgrebe, and Barry Smith (30 minutes)
 ```
-**Perspectives on machine learning**
+**Perspectives on machine learning** ([slides](slides/Landgrebe_AlphaFold_ICBO2022.pdf))  
 
 
 3:00 – 3:15 pm Coffee Break
@@ -140,7 +140,7 @@ will be held virtually on September 21, 2022. See website for details.
 ```txt
 3:15 – 4:00 pm Invited Talk: Robert Hoerndorf (45 minutes)
 ```
-**The coevolution of ontologies and knowledge-based analytics in bioinformatics**
+**The coevolution of ontologies and knowledge-based analytics in bioinformatics** ([slides](slides/Hoehndorf_Coevolution.pdf))  
  
 ```txt
 4:00 – 4:15 pm BFO/ISO Celebration (15 minutes)
