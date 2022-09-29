@@ -1,13 +1,5 @@
 # ICBO 2022 Scheduling  
 
-This web page includes two sections: (1) Schedule overview, and (ii) Schedule Details. 
-
-## Schedule Overview ([pdf](ICBO-2022-Scheduling.pdf))  
-![icbo-schedule](icbo-schedule.png)
-
-
-## Schedule Details
-
 ### Sunday, September 25, 2022 (breakfast on your own)  
 #### Morning   
 Parallel Sessions 
