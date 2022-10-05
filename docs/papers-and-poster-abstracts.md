@@ -43,7 +43,7 @@
   **[Flash Talk](flash-talks/From_Survey_to_Ontology.pdf)**  
   Lauren Chan, Jimmy Phuong, Anne Thessen, Stephanie Hong, Shahim Essaid and Melissa Haendel  
 - **[Development of Axiomatization for the Cholangiocarcinoma Ontology Using Common Logic Interchange Format](papers/ICBO-2022_paper_8905.pdf)**  
-  **[Flash Talk](flash-talks/CHOLANGIOCARCINOMA_ONTOLOGY.pdf)**  
+  **[Flash Talk](flash-talks/2-anuwat-ccao-axiom.pptx.pdf)**  
   Anuwat Pengput and Alexander D. Diehl
 - **[Collaborative Development of a Process Chemistry Domain Ontology, PROCO](papers/Submission_easychair_4112.pdf)**  
   **[Flash Talk](flash-talks/Process_Chemistry_Domain_Ontology.pdf)**  
