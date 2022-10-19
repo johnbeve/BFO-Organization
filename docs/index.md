@@ -1,6 +1,8 @@
 # ICBO 2022: International Conference on Biomedical Ontology
 
-Theme of ICBO 2022: "Lessons from Ontologies in Diverse Domains". 
+Theme of ICBO 2022: "Lessons from Ontologies in Diverse Domains".  
+
+A playlist of the conference's recordings is available on [YouTube](https://www.youtube.com/channel/UCUT0MwXxAFnekhsSJVmHTJw/playlists).  
 
 ## Location
 
