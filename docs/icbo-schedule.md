@@ -1,5 +1,7 @@
 # ICBO 2022 Scheduling  
 
+A full playlist of recordings is available on [YouTube](https://www.youtube.com/channel/UCUT0MwXxAFnekhsSJVmHTJw/playlists).  
+
 ### Sunday, September 25, 2022 (breakfast on your own)  
 #### Morning   
 Parallel Sessions 
