@@ -4,6 +4,10 @@ Theme of ICBO 2022: "Lessons from Ontologies in Diverse Domains".
 
 A playlist of the conference's recordings is available on [YouTube](https://www.youtube.com/channel/UCUT0MwXxAFnekhsSJVmHTJw/playlists).  
 
+## Conference Feedback
+
+This year's ICBO conference has ended. See this [PDF](survey/ICBO2022-survey-results-final.pdf) to see participant feedback.
+
 ## Location
 
 The 2022 International Conference of Biomedical Ontology (ICBO 2022) will be held in 2022 at the [Michigan League](https://uunions.umich.edu/league/), [University of Michigan](https://umich.edu/), Ann Arbor, MI, USA. 
