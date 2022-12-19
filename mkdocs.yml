@@ -1,5 +1,5 @@
 site_name: "ICBO-2022: International Conference on Biomedical Ontology"
-repo_url: https://github.com/ICBO-conference/icbo2022
+repo_url: https://github.com/ICBO-conference/icbo2022/tree/main/docs
 theme:
   name: readthedocs
 nav:
