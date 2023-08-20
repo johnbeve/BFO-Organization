@@ -1,6 +1,6 @@
 site_name: "Basic Formal Ontology"
-repo_url: https://github.com/BFO-Organization/BFO/
-edit_uri: '?query=root/BFO/docs/'
+repo_url: https://github.com/BFO-Organization/
+edit_uri: '?query=root/BFO-Organization/docs/'
 theme:
   name: readthedocs
 nav:
