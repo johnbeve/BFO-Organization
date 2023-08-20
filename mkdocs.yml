@@ -1,25 +1,26 @@
-site_name: "ICBO-2022: International Conference on Biomedical Ontology"
-repo_url: https://github.com/ICBO-conference/icbo2022/
-edit_uri: '?query=root/icbo2022/docs/'
+site_name: "Basic Formal Ontology"
+repo_url: https://github.com/BFO-Organization/BFO/
+edit_uri: '?query=root/BFO/docs/'
 theme:
   name: readthedocs
 nav:
   - Home: index.md
-  - Call for Submissions: call-for-submissions.md
-  - Keynote Speakers: keynote-speakers.md
-  - Journal of Biomedical Semantics ICBO Thematic Series: submit-jbms-icbo.md
-  - Workshops & Tutorials: workshops-and-tutorials.md
-  - Workshop Publication Requirements: workshop-publication-requirements.md
-  - Michigan Week of Ontology and Semantic Web: michigan-week-of-ontology-and-semantic-web.md 
-  - CCBOT 2022 (joint conference): ccbot2022.md 
-  - Registration: icbo-registration.md
-  - ICBO Hotel Options: icbo-hotels.md
-  - Travel to ICBO:  icbo-travel.md
-  - Sunday Morning Carpool: sunday-morning-carpool.md
-  - Schedule: icbo-schedule.md
-  - Papers and Poster Abstracts: papers-and-poster-abstracts.md
-  - Poster Awards: poster-awards.md
-  - Conference Photos: conference-photos.md
-  - Contact Information: contact-information.md
-  - Co-organizers: co-organizers.md
-  - Program Committee: program-committee.md
+  - Preface: preface.md
+  - Introduction: introduction.md
+  - Basic Formal Ontology: basic-formal-ontology.md
+  - Scope: scope.md
+  - Conformance: conformance.md
+  - Normative Reference: normative-reference.md
+  - Terms and Definitions: terms-and-definitions.md
+  - Conventions: conventions.md
+  - BFO-Core: bfo-core.md
+  - Temporalized Relations Extension: temporalized-relations-extensions.md
+  - Stasis Extension: stasis-extension.md
+  - Temporal Annotation Extension: temporal-annotation-extension.md
+  - Mapping Extensions: mapping-extensions.md
+  - Important Extensions: important-extensions.md
+  - Summary: summary.md
+  - Annex A - Design Patterns: design-patterns.md
+  - Annex B - SPARQL Quality Control: sparql-quality-control.md
+  - Annex C - SHACL Quality Control: shacl-quality-control.md
+
