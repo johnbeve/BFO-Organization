@@ -1,0 +1,252 @@
+<!DOCTYPE html>
+<html class="writer-html5" lang="en" >
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+      <link rel="shortcut icon" href="../img/favicon.ico" />
+    <title>BFO-Core - Basic Formal Ontology</title>
+    <link rel="stylesheet" href="../css/theme.css" />
+    <link rel="stylesheet" href="../css/theme_extra.css" />
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/github.min.css" />
+    
+      <script>
+        // Current page data
+        var mkdocs_page_name = "BFO-Core";
+        var mkdocs_page_input_path = "bfo-core.md";
+        var mkdocs_page_url = null;
+      </script>
+    
+    <!--[if lt IE 9]>
+      <script src="../js/html5shiv.min.js"></script>
+    <![endif]-->
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/highlight.min.js"></script>
+      <script>hljs.highlightAll();</script> 
+</head>
+
+<body class="wy-body-for-nav" role="document">
+
+  <div class="wy-grid-for-nav">
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side stickynav">
+    <div class="wy-side-scroll">
+      <div class="wy-side-nav-search">
+          <a href=".." class="icon icon-home"> Basic Formal Ontology
+        </a><div role="search">
+  <form id ="rtd-search-form" class="wy-form" action="../search.html" method="get">
+      <input type="text" name="q" placeholder="Search docs" aria-label="Search docs" title="Type search term here" />
+  </form>
+</div>
+      </div>
+
+      <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="Navigation menu">
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="..">Home</a>
+                </li>
+              </ul>
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="../preface/">Preface</a>
+                </li>
+              </ul>
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="../introduction/">Introduction</a>
+                </li>
+              </ul>
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="../basic-formal-ontology/">Basic Formal Ontology</a>
+                </li>
+              </ul>
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="../scope/">Scope</a>
+                </li>
+              </ul>
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="../conformance/">Conformance</a>
+                </li>
+              </ul>
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="../normative-reference/">Normative Reference</a>
+                </li>
+              </ul>
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="../terms-and-definitions/">Terms and Definitions</a>
+                </li>
+              </ul>
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="../conventions/">Conventions</a>
+                </li>
+              </ul>
+              <ul class="current">
+                <li class="toctree-l1 current"><a class="reference internal current" href="./">BFO-Core</a>
+    <ul class="current">
+    <li class="toctree-l2"><a class="reference internal" href="#temporal-extensions">Temporal Extensions</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#temporal-extension-artifacts">Temporal Extension Artifacts</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#temporal-extension-integration">Temporal Extension Integration</a>
+    </li>
+    </ul>
+                </li>
+              </ul>
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="../temporalized-relations-extension/">Temporalized Relations Extension</a>
+                </li>
+              </ul>
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="../stasis-extension/">Stasis Extension</a>
+                </li>
+              </ul>
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="../temporal-annotation-extension/">Temporal Annotation Extension</a>
+                </li>
+              </ul>
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="../mapping-extensions/">Mapping Extensions</a>
+                </li>
+              </ul>
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="../summary/">Summary</a>
+                </li>
+              </ul>
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="../design-patterns/">Annex A - Design Patterns</a>
+                </li>
+              </ul>
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="../sparql-quality-control/">Annex B - SPARQL Quality Control</a>
+                </li>
+              </ul>
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="../shacl-quality-control/">Annex C - SHACL Quality Control</a>
+                </li>
+              </ul>
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="../common-core-ontology-suite/">Annex D - Common Core Ontology Suite</a>
+                </li>
+              </ul>
+      </div>
+    </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+      <nav class="wy-nav-top" role="navigation" aria-label="Mobile navigation menu">
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="..">Basic Formal Ontology</a>
+        
+      </nav>
+      <div class="wy-nav-content">
+        <div class="rst-content"><div role="navigation" aria-label="breadcrumbs navigation">
+  <ul class="wy-breadcrumbs">
+    <li><a href=".." class="icon icon-home" aria-label="Docs"></a> &raquo;</li>
+      <li class="breadcrumb-item active">BFO-Core</li>
+    <li class="wy-breadcrumbs-aside">
+          <a href="https://github.com/BFO-Organization/?query=root/BFO-Organization/docs/bfo-core.md" class="icon icon-github"> Edit on GitHub</a>
+    </li>
+  </ul>
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+            <div class="section" itemprop="articleBody">
+              
+                <h1 id="taking-time-seriously">Taking Time Seriously</h1>
+<p>A long-standing issue among BFO users and developers has concerned how best to represent time. Importantly, issues concerning time in BFO stem from implementations of BFO in restricted formal languages such as the Web Ontology Language (OWL). OWL does not allow for direct representation of relations with arity higher than two. To illustrate the issue, consider modeling a vehicle having an engine part at some time, but losing that engine part at another. An expressive language such as First-Order Logic (FOL) would permit the following representation: </p>
+<pre><code>(1) has_part(vehicle, engine, time_1) &amp; ~has_part(vehicle, engine, time_2)
+</code></pre>
+<p>Since FOL allows using ternary relations. OWL's restriction to at most binary relations precludes expressions like (1); indeed, there is no simple, straightforward way
+to represent the content of (1) in OWL. Given the need to represent time and change in many domains and the wide use of OWL in ontology circles, proposals have been offered by users of BFO for representing such phenomena within the binary constraints of OWL. Examples include: </p>
+<pre><code>A. Temporalized Relations 
+B. Temporal Stases
+</code></pre>
+<p>Each is a plausible avenue of research in the interest of more rigorous representations of time in restricted formal languages. Details for each research project can be viewed in respective 'Temporal Extension' repositories linked above. </p>
+<h2 id="temporal-extensions">Temporal Extensions</h2>
+<p>BFO is a top-level, domain-neutral ontology, designed to consist of terminological content that spans most scientific disciplines. Classes such as Temporal Region, Temporal Instant, Temporal Interval, etc., seem well within scope. There are, however, reasons to refrain from providing significant constraints on time in BFO:</p>
+<blockquote>
+<ol>
+<li>Scientific domains do not treat time uniformly. Economists, for example, measure economic constructs using time series, i.e. presuming a model of discrete time, whereas physicists typically treat time as continuous. This observation speaks in favor of BFO remaining neutral on questions over the discreteness of continuity of time. </li>
+<li>Not all scientific domains require a robust characterization of time, e.g. the domain of mathematics has no obvious need for time. </li>
+<li>Given community goals, even if users need some characterization of time, they do not always need a robust characterization of time, e.g. <a href="https://obofoundry.org/">Open Biological and Biomedical Ontology Foundry</a> users have, for many years, employed a formally weak representation of time with great success.</li>
+</ol>
+</blockquote>
+<p>This last point is worth belaboring. Deploying a BFO-based, robust, formalization of time can be costly, involving re-educating users, updating existing ontologies, perhaps even rewriting portions of codebases, etc. OBO users have not often had a need for such rigor, and so do not have a need to bear such costs. A charitable reading of early <a href="https://github.com/cmungall/trel-crit/raw/master/trc.pdf">criticisms</a> of the Temporalized Relations strategy - which provides a rather robust formalization of time in BFO - makes just this point.  </p>
+<p>On the other hand, there are reasons that speak in favor of providing formal guidance for modeling time in BFO:</p>
+<blockquote>
+<ol>
+<li>Other foundry efforts, such as the <a href="https://www.industrialontologies.org/">Industrial Ontology Foundry</a> which uses BFO as its top-level architecture, anticipate the need for a rigorous formalization of time.</li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/36534832/">Recent work</a> demonstrating the importance of rigorous axiomatization of ontologies used to supplement machine learning pipelines with minimal datasets, suggests rigorous BFO formalizations of time ontologies may be useful in such contexts. </li>
+</ol>
+</blockquote>
+<p>What these observations suggest is that while there are strong motivations for BFO providing - perhaps significant - guidance to users who require a robust formalization of time, imposing any specific formalization of time on all users would be in some cases unnecessarily onerous. To satisfy needs of the community then, the BFO development team encourages a strategy of developing and deploying Temporal Extensions which will provide users options for representing time in their domains.</p>
+<p>When evaluating the need for an ontologically robust characterization of time, we recommend users identify specific motivating use cases for their target domain, perhaps codified as competency questions. As a starting point, we recommend developers users reflect on the design patterns and use cases concerning time and change found in the article <a href="https://philpapers.org/archive/OTTBBF.pdf">Basic Formal Ontology: Case Studies</a>. There the authors present seven design patterns based on the FOL implementation of BFO. </p>
+<h2 id="temporal-extension-artifacts">Temporal Extension Artifacts</h2>
+<p>Temporal Extension Artifacts are artifacts designed to represent extensions of the OWL formalization of BFO - located in the "bfo-core.owl" file - that impose axiom constraints concerning time and change. Temporal Extension Artifacts should be represented in some serialization of RDF, e.g. ttl, owl. </p>
+<p>With respect to BFO, the scope of Temporal Extensions should include treatment of classes: </p>
+<ul>
+<li>Temporal Region and subclasses </li>
+<li>Spatiotemporal Region</li>
+</ul>
+<p>And relations reflecting the following relations and their inverses (where applicable):</p>
+<ul>
+<li>continuant part of</li>
+<li>proper continuant part of</li>
+<li>participates in</li>
+<li>concretizes</li>
+<li>located in</li>
+<li>member part of</li>
+<li>generically depends on</li>
+<li>material bases of</li>
+<li>occupies spatial region</li>
+<li>spatially projects onto</li>
+</ul>
+<h2 id="temporal-extension-integration">Temporal Extension Integration</h2>
+<p>BFO is a top-level ontology designed to provide a common hierarchy across all scientific research; interoperability is its motivation. It is thus incumbent on developers to demonstrate not only that their preferred formalization of time conforms to BFO, but also that interpretations, formal mappings, or provable containments exists across temporal extensions. This is, admittedly, considerable work, but it is a consequence of sustaining interoperability, which our community prizes. </p>
+              
+            </div>
+          </div><footer>
+    <div class="rst-footer-buttons" role="navigation" aria-label="Footer Navigation">
+        <a href="../conventions/" class="btn btn-neutral float-left" title="Conventions"><span class="icon icon-circle-arrow-left"></span> Previous</a>
+        <a href="../temporalized-relations-extension/" class="btn btn-neutral float-right" title="Temporalized Relations Extension">Next <span class="icon icon-circle-arrow-right"></span></a>
+    </div>
+
+  <hr/>
+
+  <div role="contentinfo">
+    <!-- Copyright etc -->
+  </div>
+
+  Built with <a href="https://www.mkdocs.org/">MkDocs</a> using a <a href="https://github.com/readthedocs/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>.
+</footer>
+          
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+
+  <div class="rst-versions" role="note" aria-label="Versions">
+  <span class="rst-current-version" data-toggle="rst-current-version">
+    
+        <span>
+          <a href="https://github.com/BFO-Organization/" class="fa fa-github" style="color: #fcfcfc"> GitHub</a>
+        </span>
+    
+    
+      <span><a href="../conventions/" style="color: #fcfcfc">&laquo; Previous</a></span>
+    
+    
+      <span><a href="../temporalized-relations-extension/" style="color: #fcfcfc">Next &raquo;</a></span>
+    
+  </span>
+</div>
+    <script src="../js/jquery-3.6.0.min.js"></script>
+    <script>var base_url = "..";</script>
+    <script src="../js/theme_extra.js"></script>
+    <script src="../js/theme.js"></script>
+      <script src="../search/main.js"></script>
+    <script>
+        jQuery(function () {
+            SphinxRtdTheme.Navigation.enable(true);
+        });
+    </script>
+
+</body>
+</html>
