@@ -8,8 +8,8 @@ nav:
   - Preface: preface.md
   - Introduction: introduction.md
   - Basic Formal Ontology: basic-formal-ontology.md
-    -  Scope: scope.md
-    - Conformance: conformance.md
+  -  Scope: scope.md
+  - Conformance: conformance.md
   - Normative Reference: normative-reference.md
   - Terms and Definitions: terms-and-definitions.md
   - Conventions: conventions.md
